@@ -1,0 +1,5617 @@
+{
+  "moduleName": "mu1000",
+  "toneData": [
+    {
+      "bank": 0,
+      "bankLabel": "MU100 Native",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "+GrandP#"
+        },
+        {
+          "pc": 1,
+          "name": "+BriteP#"
+        },
+        {
+          "pc": 2,
+          "name": "El.Grand"
+        },
+        {
+          "pc": 3,
+          "name": "HnkyTonk"
+        },
+        {
+          "pc": 4,
+          "name": "+EPiano1#"
+        },
+        {
+          "pc": 5,
+          "name": "+EPiano2#"
+        },
+        {
+          "pc": 6,
+          "name": "Harpsi."
+        },
+        {
+          "pc": 7,
+          "name": "+Clavi #"
+        },
+        {
+          "pc": 8,
+          "name": "Celesta"
+        },
+        {
+          "pc": 9,
+          "name": "Glocken"
+        },
+        {
+          "pc": 10,
+          "name": "MusicBox"
+        },
+        {
+          "pc": 11,
+          "name": "Vibes"
+        },
+        {
+          "pc": 12,
+          "name": "Marimba"
+        },
+        {
+          "pc": 13,
+          "name": "Xylophon"
+        },
+        {
+          "pc": 14,
+          "name": "TubulBel"
+        },
+        {
+          "pc": 15,
+          "name": "Dulcimer"
+        },
+        {
+          "pc": 16,
+          "name": "+DrawOrg#"
+        },
+        {
+          "pc": 17,
+          "name": "+PercOrg#"
+        },
+        {
+          "pc": 18,
+          "name": "+RockOrg#"
+        },
+        {
+          "pc": 19,
+          "name": "ChrchOrg"
+        },
+        {
+          "pc": 20,
+          "name": "ReedOrgn"
+        },
+        {
+          "pc": 21,
+          "name": "Acordion"
+        },
+        {
+          "pc": 22,
+          "name": "Harmnica"
+        },
+        {
+          "pc": 23,
+          "name": "+TangoAc#"
+        },
+        {
+          "pc": 24,
+          "name": "+NylonGt#"
+        },
+        {
+          "pc": 25,
+          "name": "+SteelGt#"
+        },
+        {
+          "pc": 26,
+          "name": "+JazzGtr#"
+        },
+        {
+          "pc": 27,
+          "name": "CleanGtr"
+        },
+        {
+          "pc": 28,
+          "name": "+MuteGtr#"
+        },
+        {
+          "pc": 29,
+          "name": "+Ovrdriv#"
+        },
+        {
+          "pc": 30,
+          "name": "+DistGtr#"
+        },
+        {
+          "pc": 31,
+          "name": "GtrHarmo"
+        },
+        {
+          "pc": 32,
+          "name": "+AcoBass#"
+        },
+        {
+          "pc": 33,
+          "name": "+FngrBa#"
+        },
+        {
+          "pc": 34,
+          "name": "PickBass"
+        },
+        {
+          "pc": 35,
+          "name": "+Frtless#"
+        },
+        {
+          "pc": 36,
+          "name": "+SlapBa1#"
+        },
+        {
+          "pc": 37,
+          "name": "+SlapBa2#"
+        },
+        {
+          "pc": 38,
+          "name": "SynBass1"
+        },
+        {
+          "pc": 39,
+          "name": "SynBass2"
+        },
+        {
+          "pc": 40,
+          "name": "+Violin#"
+        },
+        {
+          "pc": 41,
+          "name": "Viola"
+        },
+        {
+          "pc": 42,
+          "name": "Cello"
+        },
+        {
+          "pc": 43,
+          "name": "Contrabs"
+        },
+        {
+          "pc": 44,
+          "name": "+TremStr#"
+        },
+        {
+          "pc": 45,
+          "name": "Pizz.Str"
+        },
+        {
+          "pc": 46,
+          "name": "Harp"
+        },
+        {
+          "pc": 47,
+          "name": "Timpani"
+        },
+        {
+          "pc": 48,
+          "name": "+Strngs1#"
+        },
+        {
+          "pc": 49,
+          "name": "+Strngs2#"
+        },
+        {
+          "pc": 50,
+          "name": "Syn Str1"
+        },
+        {
+          "pc": 51,
+          "name": "Syn Str2"
+        },
+        {
+          "pc": 52,
+          "name": "ChoirAah"
+        },
+        {
+          "pc": 53,
+          "name": "VoiceOoh"
+        },
+        {
+          "pc": 54,
+          "name": "SynVoice"
+        },
+        {
+          "pc": 55,
+          "name": "Orch.Hit"
+        },
+        {
+          "pc": 56,
+          "name": "+Trumpet#"
+        },
+        {
+          "pc": 57,
+          "name": "+Trmbone#"
+        },
+        {
+          "pc": 58,
+          "name": "Tuba"
+        },
+        {
+          "pc": 59,
+          "name": "+MuteTrp#"
+        },
+        {
+          "pc": 60,
+          "name": "Fr. Horn"
+        },
+        {
+          "pc": 61,
+          "name": "+BrssSec#"
+        },
+        {
+          "pc": 62,
+          "name": "SynBrss1"
+        },
+        {
+          "pc": 63,
+          "name": "SynBrss2"
+        },
+        {
+          "pc": 64,
+          "name": "SprnoSax"
+        },
+        {
+          "pc": 65,
+          "name": "+AltoSax#"
+        },
+        {
+          "pc": 66,
+          "name": "TenorSax"
+        },
+        {
+          "pc": 67,
+          "name": "Bari.Sax"
+        },
+        {
+          "pc": 68,
+          "name": "+Oboe#"
+        },
+        {
+          "pc": 69,
+          "name": "Eng.Horn"
+        },
+        {
+          "pc": 70,
+          "name": "Bassoon"
+        },
+        {
+          "pc": 71,
+          "name": "Clarinet"
+        },
+        {
+          "pc": 72,
+          "name": "Piccolo"
+        },
+        {
+          "pc": 73,
+          "name": "+Flute#"
+        },
+        {
+          "pc": 74,
+          "name": "Recorder"
+        },
+        {
+          "pc": 75,
+          "name": "+PanFlut#"
+        },
+        {
+          "pc": 76,
+          "name": "Bottle"
+        },
+        {
+          "pc": 77,
+          "name": "Shakhchi"
+        },
+        {
+          "pc": 78,
+          "name": "Whistle"
+        },
+        {
+          "pc": 79,
+          "name": "Ocarina"
+        },
+        {
+          "pc": 80,
+          "name": "SquareLd"
+        },
+        {
+          "pc": 81,
+          "name": "Saw Ld"
+        },
+        {
+          "pc": 82,
+          "name": "CaliopLd"
+        },
+        {
+          "pc": 83,
+          "name": "Chiff Ld"
+        },
+        {
+          "pc": 84,
+          "name": "CharanLd"
+        },
+        {
+          "pc": 85,
+          "name": "Voice Ld"
+        },
+        {
+          "pc": 86,
+          "name": "Fifth Ld"
+        },
+        {
+          "pc": 87,
+          "name": "Bass&Ld"
+        },
+        {
+          "pc": 88,
+          "name": "NewAgePad"
+        },
+        {
+          "pc": 89,
+          "name": "Warm Pad"
+        },
+        {
+          "pc": 90,
+          "name": "PolySyPd"
+        },
+        {
+          "pc": 91,
+          "name": "ChoirPad"
+        },
+        {
+          "pc": 92,
+          "name": "BowedPad"
+        },
+        {
+          "pc": 93,
+          "name": "MetalPad"
+        },
+        {
+          "pc": 94,
+          "name": "Halo Pad"
+        },
+        {
+          "pc": 95,
+          "name": "SweepPad"
+        },
+        {
+          "pc": 96,
+          "name": "Rain"
+        },
+        {
+          "pc": 97,
+          "name": "SoundTrk"
+        },
+        {
+          "pc": 98,
+          "name": "Crystal"
+        },
+        {
+          "pc": 99,
+          "name": "Atmosphr"
+        },
+        {
+          "pc": 100,
+          "name": "Bright"
+        },
+        {
+          "pc": 101,
+          "name": "Goblins"
+        },
+        {
+          "pc": 102,
+          "name": "Echoes"
+        },
+        {
+          "pc": 103,
+          "name": "Sci-Fi"
+        },
+        {
+          "pc": 104,
+          "name": "Sitar"
+        },
+        {
+          "pc": 105,
+          "name": "Banjo"
+        },
+        {
+          "pc": 106,
+          "name": "Shamisen"
+        },
+        {
+          "pc": 107,
+          "name": "Koto"
+        },
+        {
+          "pc": 108,
+          "name": "Kalimba"
+        },
+        {
+          "pc": 109,
+          "name": "Bagpipe"
+        },
+        {
+          "pc": 110,
+          "name": "Fiddle"
+        },
+        {
+          "pc": 111,
+          "name": "Shanai"
+        },
+        {
+          "pc": 112,
+          "name": "TnklBell"
+        },
+        {
+          "pc": 113,
+          "name": "Agogo"
+        },
+        {
+          "pc": 114,
+          "name": "SteelDrm"
+        },
+        {
+          "pc": 115,
+          "name": "Woodblok"
+        },
+        {
+          "pc": 116,
+          "name": "TaikoDrm"
+        },
+        {
+          "pc": 117,
+          "name": "MelodTom"
+        },
+        {
+          "pc": 118,
+          "name": "Syn Drum"
+        },
+        {
+          "pc": 119,
+          "name": "RevCymbl"
+        },
+        {
+          "pc": 120,
+          "name": "FretNoiz"
+        },
+        {
+          "pc": 121,
+          "name": "BrthNoiz"
+        },
+        {
+          "pc": 122,
+          "name": "Seashore"
+        },
+        {
+          "pc": 123,
+          "name": "Tweet"
+        },
+        {
+          "pc": 124,
+          "name": "Telphone"
+        },
+        {
+          "pc": 125,
+          "name": "Helicptr"
+        },
+        {
+          "pc": 126,
+          "name": "Applause"
+        },
+        {
+          "pc": 127,
+          "name": "Gunshot"
+        }
+      ]
+    },
+    {
+      "bank": 1,
+      "bankLabel": "Key Scale Panning",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "GrndPnoK"
+        },
+        {
+          "pc": 1,
+          "name": "BritPnoK"
+        },
+        {
+          "pc": 2,
+          "name": "ElGrPnoK"
+        },
+        {
+          "pc": 3,
+          "name": "HnkyTnkK"
+        },
+        {
+          "pc": 4,
+          "name": "El.Pno1K"
+        },
+        {
+          "pc": 5,
+          "name": "El.Pno2K"
+        },
+        {
+          "pc": 6,
+          "name": "Harpsi.K"
+        },
+        {
+          "pc": 7,
+          "name": "Clavi.K"
+        },
+        {
+          "pc": 11,
+          "name": "VibesK"
+        },
+        {
+          "pc": 12,
+          "name": "MarimbaK"
+        }
+      ]
+    },
+    {
+      "bank": 3,
+      "bankLabel": "Stereo",
+      "tones": [
+        {
+          "pc": 1,
+          "name": "+StBrtPno"
+        },
+        {
+          "pc": 16,
+          "name": "+StDrawOr"
+        },
+        {
+          "pc": 48,
+          "name": "S.Strngs"
+        },
+        {
+          "pc": 49,
+          "name": "S.SlwStr"
+        },
+        {
+          "pc": 52,
+          "name": "S.Choir"
+        },
+        {
+          "pc": 61,
+          "name": "StBrsSec ***"
+        }
+      ]
+    },
+    {
+      "bank": 6,
+      "bankLabel": "Single",
+      "tones": [
+        {
+          "pc": 34,
+          "name": "PickBa 2"
+        },
+        {
+          "pc": 39,
+          "name": "MelloSBa"
+        },
+        {
+          "pc": 60,
+          "name": "FrHrSolo"
+        },
+        {
+          "pc": 80,
+          "name": "SquarLd2"
+        },
+        {
+          "pc": 81,
+          "name": "Saw Ld 2"
+        }
+      ]
+    },
+    {
+      "bank": 8,
+      "bankLabel": "Slow",
+      "tones": [
+        {
+          "pc": 40,
+          "name": "Slow Vln"
+        },
+        {
+          "pc": 44,
+          "name": "SlwTrStr"
+        },
+        {
+          "pc": 48,
+          "name": "Slow Str"
+        },
+        {
+          "pc": 49,
+          "name": "LegatoSt"
+        },
+        {
+          "pc": 50,
+          "name": "+Memory"
+        },
+        {
+          "pc": 64,
+          "name": "+VgSprnSx"
+        },
+        {
+          "pc": 80,
+          "name": "LMSquare"
+        },
+        {
+          "pc": 81,
+          "name": "ThickSaw"
+        },
+        {
+          "pc": 86,
+          "name": "+FifthLdS"
+        },
+        {
+          "pc": 102,
+          "name": "Echoes 2"
+        }
+      ]
+    },
+    {
+      "bank": 12,
+      "bankLabel": "Fast Decay",
+      "tones": [
+        {
+          "pc": 5,
+          "name": "+ChoEPDcy"
+        },
+        {
+          "pc": 30,
+          "name": "DstRthmG **"
+        },
+        {
+          "pc": 39,
+          "name": "Seq Bass"
+        },
+        {
+          "pc": 55,
+          "name": "LoFi Hit ***"
+        },
+        {
+          "pc": 62,
+          "name": "Quack Br"
+        },
+        {
+          "pc": 98,
+          "name": "SynDrCmp"
+        }
+      ]
+    },
+    {
+      "bank": 14,
+      "bankLabel": "Double Attack",
+      "tones": [
+        {
+          "pc": 48,
+          "name": "+SfzStrgs"
+        },
+        {
+          "pc": 61,
+          "name": "SfrzndBr **"
+        },
+        {
+          "pc": 98,
+          "name": "Popcorn"
+        },
+        {
+          "pc": 102,
+          "name": "Echo Pan"
+        }
+      ]
+    },
+    {
+      "bank": 16,
+      "bankLabel": "Bright 1",
+      "tones": [
+        {
+          "pc": 24,
+          "name": "NylonGt2"
+        },
+        {
+          "pc": 25,
+          "name": "SteelGt2"
+        },
+        {
+          "pc": 37,
+          "name": "+BrtSlpSp"
+        },
+        {
+          "pc": 52,
+          "name": "Ch.Aahs2"
+        },
+        {
+          "pc": 56,
+          "name": "Trumpet2"
+        },
+        {
+          "pc": 58,
+          "name": "Tuba 2"
+        },
+        {
+          "pc": 87,
+          "name": "Big&Low"
+        },
+        {
+          "pc": 89,
+          "name": "ThickPad"
+        }
+      ]
+    },
+    {
+      "bank": 17,
+      "bankLabel": "Bright 2",
+      "tones": [
+        {
+          "pc": 56,
+          "name": "BriteTrp"
+        },
+        {
+          "pc": 89,
+          "name": "Soft Pad"
+        }
+      ]
+    },
+    {
+      "bank": 18,
+      "bankLabel": "Dark 1",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "MelloGrP"
+        },
+        {
+          "pc": 4,
+          "name": "MelloEP1"
+        },
+        {
+          "pc": 26,
+          "name": "MelloGtr"
+        },
+        {
+          "pc": 33,
+          "name": "FingrDrk"
+        },
+        {
+          "pc": 38,
+          "name": "SynBa1Dk"
+        },
+        {
+          "pc": 39,
+          "name": "ClkSynBa"
+        },
+        {
+          "pc": 50,
+          "name": "+Zephyr"
+        },
+        {
+          "pc": 57,
+          "name": "Trmbone2"
+        },
+        {
+          "pc": 61,
+          "name": "MildBrss ***"
+        },
+        {
+          "pc": 63,
+          "name": "Soft Brs"
+        },
+        {
+          "pc": 65,
+          "name": "+ASax Lgt"
+        },
+        {
+          "pc": 80,
+          "name": "Hollow"
+        },
+        {
+          "pc": 81,
+          "name": "Dyna Saw"
+        },
+        {
+          "pc": 89,
+          "name": "Sine Pad"
+        },
+        {
+          "pc": 98,
+          "name": "TinyBell"
+        },
+        {
+          "pc": 99,
+          "name": "WarmAtms"
+        }
+      ]
+    },
+    {
+      "bank": 19,
+      "bankLabel": "Dark 2",
+      "tones": [
+        {
+          "pc": 39,
+          "name": "SynBa2Dk"
+        },
+        {
+          "pc": 80,
+          "name": "Shroud"
+        },
+        {
+          "pc": 81,
+          "name": "Digi Saw"
+        },
+        {
+          "pc": 99,
+          "name": "HollwRls"
+        }
+      ]
+    },
+    {
+      "bank": 20,
+      "bankLabel": "Resonant",
+      "tones": [
+        {
+          "pc": 1,
+          "name": "+ResoBrtP"
+        },
+        {
+          "pc": 38,
+          "name": "FastResB"
+        },
+        {
+          "pc": 62,
+          "name": "RezSynBr"
+        },
+        {
+          "pc": 81,
+          "name": "Big Lead"
+        },
+        {
+          "pc": 95,
+          "name": "Shwimmer"
+        }
+      ]
+    },
+    {
+      "bank": 21,
+      "bankLabel": "LFO-Cutoff Freq",
+      "tones": [
+        {
+          "pc": 36,
+          "name": "+CsmicSlp"
+        },
+        {
+          "pc": 38,
+          "name": "+TL66"
+        },
+        {
+          "pc": 51,
+          "name": "+TradeWnd"
+        }
+      ]
+    },
+    {
+      "bank": 22,
+      "bankLabel": "Vel-cutoff freq",
+      "tones": [
+        {
+          "pc": 37,
+          "name": "+Wah Slap"
+        },
+        {
+          "pc": 39,
+          "name": "+Zealot"
+        }
+      ]
+    },
+    {
+      "bank": 24,
+      "bankLabel": "Attack",
+      "tones": [
+        {
+          "pc": 17,
+          "name": "70sPcOr1"
+        },
+        {
+          "pc": 30,
+          "name": "DistGtr2 **"
+        },
+        {
+          "pc": 38,
+          "name": "AcidBass"
+        },
+        {
+          "pc": 48,
+          "name": "Arco Str"
+        },
+        {
+          "pc": 62,
+          "name": "PolyBrss"
+        },
+        {
+          "pc": 81,
+          "name": "HeavySyn"
+        },
+        {
+          "pc": 85,
+          "name": "SynthAah"
+        }
+      ]
+    },
+    {
+      "bank": 25,
+      "bankLabel": "Release",
+      "tones": [
+        {
+          "pc": 6,
+          "name": "Harpsi.2"
+        },
+        {
+          "pc": 24,
+          "name": "NylonGt3"
+        },
+        {
+          "pc": 81,
+          "name": "WaspySyn"
+        }
+      ]
+    },
+    {
+      "bank": 26,
+      "bankLabel": "Sweep",
+      "tones": [
+        {
+          "pc": 81,
+          "name": "Mondo ***"
+        }
+      ]
+    },
+    {
+      "bank": 27,
+      "bankLabel": "Resonant Sweep",
+      "tones": [
+        {
+          "pc": 7,
+          "name": "ClaviWah"
+        },
+        {
+          "pc": 33,
+          "name": "FlangeBa"
+        },
+        {
+          "pc": 36,
+          "name": "ResoSlap"
+        },
+        {
+          "pc": 38,
+          "name": "ResoBass ***"
+        },
+        {
+          "pc": 50,
+          "name": "Reso Str"
+        },
+        {
+          "pc": 62,
+          "name": "SynBrss3"
+        },
+        {
+          "pc": 81,
+          "name": "RezzySaw ***"
+        },
+        {
+          "pc": 95,
+          "name": "Converge"
+        },
+        {
+          "pc": 97,
+          "name": "Prologue"
+        }
+      ]
+    },
+    {
+      "bank": 28,
+      "bankLabel": "Muted",
+      "tones": [
+        {
+          "pc": 34,
+          "name": "MutePkBa"
+        },
+        {
+          "pc": 38,
+          "name": "+MtdPulsB"
+        },
+        {
+          "pc": 105,
+          "name": "MuteBnjo"
+        }
+      ]
+    },
+    {
+      "bank": 29,
+      "bankLabel": "Complex-FEG",
+      "tones": [
+        {
+          "pc": 38,
+          "name": "+SlwAttck"
+        },
+        {
+          "pc": 62,
+          "name": "+AnalgSfz"
+        }
+      ]
+    },
+    {
+      "bank": 32,
+      "bankLabel": "Detune 1",
+      "tones": [
+        {
+          "pc": 1,
+          "name": "+DtndBrtP"
+        },
+        {
+          "pc": 2,
+          "name": "Det.CP80"
+        },
+        {
+          "pc": 4,
+          "name": "Chor.EP1"
+        },
+        {
+          "pc": 5,
+          "name": "Chor.EP2"
+        },
+        {
+          "pc": 6,
+          "name": "HarpsiDt"
+        },
+        {
+          "pc": 16,
+          "name": "DetDrwOr"
+        },
+        {
+          "pc": 17,
+          "name": "DetPrcOr"
+        },
+        {
+          "pc": 19,
+          "name": "ChurOrg3"
+        },
+        {
+          "pc": 20,
+          "name": "+ReedOrDt"
+        },
+        {
+          "pc": 21,
+          "name": "AccordIt"
+        },
+        {
+          "pc": 22,
+          "name": "Harmo. 2"
+        },
+        {
+          "pc": 24,
+          "name": "+NylnGtDt"
+        },
+        {
+          "pc": 25,
+          "name": "+StlGtrDt"
+        },
+        {
+          "pc": 26,
+          "name": "Jazz Amp"
+        },
+        {
+          "pc": 27,
+          "name": "ChorusGt"
+        },
+        {
+          "pc": 29,
+          "name": "+OdrvGtDt"
+        },
+        {
+          "pc": 33,
+          "name": "+FngrBaDt"
+        },
+        {
+          "pc": 35,
+          "name": "Fretles2"
+        },
+        {
+          "pc": 36,
+          "name": "PunchThm"
+        },
+        {
+          "pc": 39,
+          "name": "SmthSynB"
+        },
+        {
+          "pc": 52,
+          "name": "MelChoir"
+        },
+        {
+          "pc": 56,
+          "name": "Warm Trp"
+        },
+        {
+          "pc": 60,
+          "name": "FrHorn 2"
+        },
+        {
+          "pc": 62,
+          "name": "JumpBrss"
+        },
+        {
+          "pc": 81,
+          "name": "DoublSaw ***"
+        },
+        {
+          "pc": 104,
+          "name": "DetSitar"
+        }
+      ]
+    },
+    {
+      "bank": 33,
+      "bankLabel": "Detune 2",
+      "tones": [
+        {
+          "pc": 5,
+          "name": "DX Hard"
+        },
+        {
+          "pc": 16,
+          "name": "60sDrOr1"
+        },
+        {
+          "pc": 17,
+          "name": "Lite Org"
+        },
+        {
+          "pc": 27,
+          "name": "+ChoGtrLt"
+        },
+        {
+          "pc": 35,
+          "name": "Fretles3"
+        }
+      ]
+    },
+    {
+      "bank": 34,
+      "bankLabel": "Detune 3",
+      "tones": [
+        {
+          "pc": 5,
+          "name": "DXLegend"
+        },
+        {
+          "pc": 16,
+          "name": "60sDrOr2"
+        },
+        {
+          "pc": 35,
+          "name": "Fretles4"
+        }
+      ]
+    },
+    {
+      "bank": 35,
+      "bankLabel": "Octave 1",
+      "tones": [
+        {
+          "pc": 2,
+          "name": "+Synth CP"
+        },
+        {
+          "pc": 6,
+          "name": "Harpsi.3"
+        },
+        {
+          "pc": 15,
+          "name": "Dulcimr2"
+        },
+        {
+          "pc": 16,
+          "name": "70sDrOr1"
+        },
+        {
+          "pc": 19,
+          "name": "ChurOrg2"
+        },
+        {
+          "pc": 25,
+          "name": "12StrGtr"
+        },
+        {
+          "pc": 30,
+          "name": "DistGtr3 **"
+        },
+        {
+          "pc": 38,
+          "name": "Clv Bass"
+        },
+        {
+          "pc": 45,
+          "name": "+Pizz Oct"
+        },
+        {
+          "pc": 48,
+          "name": "60sStrng"
+        },
+        {
+          "pc": 50,
+          "name": "Syn Str3 **"
+        },
+        {
+          "pc": 55,
+          "name": "OrchHit2"
+        },
+        {
+          "pc": 61,
+          "name": "Tp&TbSec"
+        },
+        {
+          "pc": 80,
+          "name": "2 Osc ***"
+        },
+        {
+          "pc": 81,
+          "name": "Toy Lead ***"
+        },
+        {
+          "pc": 86,
+          "name": "Big Five"
+        },
+        {
+          "pc": 98,
+          "name": "RndGlock"
+        },
+        {
+          "pc": 104,
+          "name": "Sitar 2"
+        }
+      ]
+    },
+    {
+      "bank": 36,
+      "bankLabel": "Octave 2",
+      "tones": [
+        {
+          "pc": 16,
+          "name": "DrawOrg2"
+        },
+        {
+          "pc": 30,
+          "name": "PowerGt2 **"
+        },
+        {
+          "pc": 61,
+          "name": "Tp&TbSc2 ***"
+        },
+        {
+          "pc": 81,
+          "name": "Dim Saw ***"
+        }
+      ]
+    },
+    {
+      "bank": 37,
+      "bankLabel": "5th 1",
+      "tones": [
+        {
+          "pc": 16,
+          "name": "60sDrOr3"
+        },
+        {
+          "pc": 17,
+          "name": "PercOrg2"
+        },
+        {
+          "pc": 30,
+          "name": "PowerGt1 **"
+        },
+        {
+          "pc": 60,
+          "name": "HornOrch"
+        }
+      ]
+    },
+    {
+      "bank": 38,
+      "bankLabel": "5th 2",
+      "tones": [
+        {
+          "pc": 16,
+          "name": "Even Bar"
+        },
+        {
+          "pc": 30,
+          "name": "Dst.5ths **"
+        }
+      ]
+    },
+    {
+      "bank": 39,
+      "bankLabel": "Bend",
+      "tones": [
+        {
+          "pc": 50,
+          "name": "+Monarchy"
+        },
+        {
+          "pc": 51,
+          "name": "+WormHole"
+        },
+        {
+          "pc": 52,
+          "name": "+Gasp"
+        },
+        {
+          "pc": 61,
+          "name": "BrssFall **"
+        }
+      ]
+    },
+    {
+      "bank": 40,
+      "bankLabel": "Tutti 1",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "PianoStr"
+        },
+        {
+          "pc": 1,
+          "name": "+SyPadPno"
+        },
+        {
+          "pc": 2,
+          "name": "LayerCP1"
+        },
+        {
+          "pc": 4,
+          "name": "HardEl.P"
+        },
+        {
+          "pc": 5,
+          "name": "DX Phase"
+        },
+        {
+          "pc": 6,
+          "name": "+ElHarpsi"
+        },
+        {
+          "pc": 7,
+          "name": "+CsmcClav"
+        },
+        {
+          "pc": 16,
+          "name": "16+2\"2/3"
+        },
+        {
+          "pc": 19,
+          "name": "NotreDam"
+        },
+        {
+          "pc": 20,
+          "name": "Puff Org"
+        },
+        {
+          "pc": 24,
+          "name": "+Wayside"
+        },
+        {
+          "pc": 25,
+          "name": "Nyln&Stl"
+        },
+        {
+          "pc": 26,
+          "name": "+OrganGtr"
+        },
+        {
+          "pc": 28,
+          "name": "FunkGtr1"
+        },
+        {
+          "pc": 29,
+          "name": "+Parallel"
+        },
+        {
+          "pc": 30,
+          "name": "FeedbkGt"
+        },
+        {
+          "pc": 32,
+          "name": "JazzRthm"
+        },
+        {
+          "pc": 33,
+          "name": "Ba&DstEG"
+        },
+        {
+          "pc": 34,
+          "name": "+PkB&MtGt"
+        },
+        {
+          "pc": 38,
+          "name": "TechnoBa"
+        },
+        {
+          "pc": 39,
+          "name": "ModulrBa"
+        },
+        {
+          "pc": 40,
+          "name": "+Unison"
+        },
+        {
+          "pc": 41,
+          "name": "+VlaDoubl"
+        },
+        {
+          "pc": 44,
+          "name": "Susp.Str"
+        },
+        {
+          "pc": 45,
+          "name": "+Sleep"
+        },
+        {
+          "pc": 46,
+          "name": "YangChin"
+        },
+        {
+          "pc": 48,
+          "name": "Orchestr"
+        },
+        {
+          "pc": 49,
+          "name": "Warm Str"
+        },
+        {
+          "pc": 50,
+          "name": "GrandPad ***"
+        },
+        {
+          "pc": 52,
+          "name": "ChoirStr"
+        },
+        {
+          "pc": 54,
+          "name": "SyVoice2"
+        },
+        {
+          "pc": 55,
+          "name": "+Throne"
+        },
+        {
+          "pc": 56,
+          "name": "+Backyard"
+        },
+        {
+          "pc": 61,
+          "name": "BrssSec2"
+        },
+        {
+          "pc": 62,
+          "name": "SyBrsSub ***"
+        },
+        {
+          "pc": 63,
+          "name": "SynBrss4"
+        },
+        {
+          "pc": 65,
+          "name": "Sax Sect"
+        },
+        {
+          "pc": 66,
+          "name": "BrthTnSx"
+        },
+        {
+          "pc": 71,
+          "name": "+Syn&Clr"
+        },
+        {
+          "pc": 73,
+          "name": "+Brthy Fl"
+        },
+        {
+          "pc": 81,
+          "name": "PulseSaw"
+        },
+        {
+          "pc": 82,
+          "name": "+Novice"
+        },
+        {
+          "pc": 83,
+          "name": "+SaltLead"
+        },
+        {
+          "pc": 89,
+          "name": "+Vishnu"
+        },
+        {
+          "pc": 94,
+          "name": "+Tiu"
+        },
+        {
+          "pc": 98,
+          "name": "GlockChi"
+        },
+        {
+          "pc": 99,
+          "name": "Nylon EP"
+        },
+        {
+          "pc": 104,
+          "name": "+Bhuj"
+        }
+      ]
+    },
+    {
+      "bank": 41,
+      "bankLabel": "Tutti 2",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "Dream"
+        },
+        {
+          "pc": 2,
+          "name": "LayerCP2"
+        },
+        {
+          "pc": 5,
+          "name": "DX+Analg"
+        },
+        {
+          "pc": 25,
+          "name": "Stl&Body"
+        },
+        {
+          "pc": 26,
+          "name": "+OctPlate"
+        },
+        {
+          "pc": 28,
+          "name": "MuteStlG"
+        },
+        {
+          "pc": 30,
+          "name": "FeedbkG2"
+        },
+        {
+          "pc": 32,
+          "name": "+PckAcoBa"
+        },
+        {
+          "pc": 38,
+          "name": "+Kik'n'Ba"
+        },
+        {
+          "pc": 39,
+          "name": "DX Bass"
+        },
+        {
+          "pc": 48,
+          "name": "Orchstr2"
+        },
+        {
+          "pc": 49,
+          "name": "Kingdom"
+        },
+        {
+          "pc": 50,
+          "name": "+SweepStr"
+        },
+        {
+          "pc": 52,
+          "name": "+Dead Sea"
+        },
+        {
+          "pc": 54,
+          "name": "Choral"
+        },
+        {
+          "pc": 61,
+          "name": "Hi Brass"
+        },
+        {
+          "pc": 63,
+          "name": "ChoirBrs"
+        },
+        {
+          "pc": 66,
+          "name": "SoftTenr"
+        },
+        {
+          "pc": 81,
+          "name": "Dr.Lead"
+        },
+        {
+          "pc": 98,
+          "name": "ClearBel"
+        }
+      ]
+    },
+    {
+      "bank": 42,
+      "bankLabel": "Tutti 3",
+      "tones": [
+        {
+          "pc": 5,
+          "name": "DXKotoEP"
+        },
+        {
+          "pc": 30,
+          "name": "+TwinDist"
+        },
+        {
+          "pc": 38,
+          "name": "+NEP"
+        },
+        {
+          "pc": 39,
+          "name": "+DXBa Brt"
+        },
+        {
+          "pc": 48,
+          "name": "TremOrch"
+        },
+        {
+          "pc": 50,
+          "name": "+SwpStOct"
+        },
+        {
+          "pc": 61,
+          "name": "MelloBrs"
+        },
+        {
+          "pc": 63,
+          "name": "+AnHrnRch"
+        },
+        {
+          "pc": 98,
+          "name": "ChorBell"
+        }
+      ]
+    },
+    {
+      "bank": 43,
+      "bankLabel": "Velocity Switch",
+      "tones": [
+        {
+          "pc": 24,
+          "name": "VelGtHrm"
+        },
+        {
+          "pc": 28,
+          "name": "FunkGtr2"
+        },
+        {
+          "pc": 29,
+          "name": "Gt.Pinch"
+        },
+        {
+          "pc": 30,
+          "name": "RckRthm2 **"
+        },
+        {
+          "pc": 32,
+          "name": "+Blink Ba"
+        },
+        {
+          "pc": 33,
+          "name": "FngrSlap"
+        },
+        {
+          "pc": 37,
+          "name": "VeloSlap"
+        },
+        {
+          "pc": 47,
+          "name": "+Roll&Hit"
+        },
+        {
+          "pc": 65,
+          "name": "HyprAlto"
+        }
+      ]
+    },
+    {
+      "bank": 45,
+      "bankLabel": "Velocity Cross Fade",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "VX El.P1"
+        },
+        {
+          "pc": 5,
+          "name": "VX El.P2"
+        },
+        {
+          "pc": 11,
+          "name": "HardVibe"
+        },
+        {
+          "pc": 28,
+          "name": "Jazz Man"
+        },
+        {
+          "pc": 30,
+          "name": "RckRthm1 **"
+        },
+        {
+          "pc": 32,
+          "name": "VXUprght"
+        },
+        {
+          "pc": 33,
+          "name": "FngBass2"
+        },
+        {
+          "pc": 48,
+          "name": "Velo.Str"
+        },
+        {
+          "pc": 62,
+          "name": "AnVelBr1"
+        },
+        {
+          "pc": 63,
+          "name": "AnVelBr2"
+        },
+        {
+          "pc": 81,
+          "name": "VeloLead"
+        },
+        {
+          "pc": 96,
+          "name": "ClaviPad"
+        }
+      ]
+    },
+    {
+      "bank": 48,
+      "bankLabel": "Detune 4",
+      "tones": [
+        {
+          "pc": 5,
+          "name": "+ChoEP K"
+        }
+      ]
+    },
+    {
+      "bank": 52,
+      "bankLabel": "Tutti 4",
+      "tones": [
+        {
+          "pc": 5,
+          "name": "+DXMallet"
+        },
+        {
+          "pc": 48,
+          "name": "+Lento"
+        },
+        {
+          "pc": 61,
+          "name": "+Bund"
+        }
+      ]
+    },
+    {
+      "bank": 53,
+      "bankLabel": "Tutti 5",
+      "tones": [
+        {
+          "pc": 61,
+          "name": "+FakeHorn"
+        }
+      ]
+    },
+    {
+      "bank": 54,
+      "bankLabel": "Tutti 6",
+      "tones": [
+        {
+          "pc": 61,
+          "name": "+FkHrnOct"
+        }
+      ]
+    },
+    {
+      "bank": 64,
+      "bankLabel": "Other Waves 1",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "+ConGrnd"
+        },
+        {
+          "pc": 1,
+          "name": "+BrConGrd"
+        },
+        {
+          "pc": 4,
+          "name": "60sEl.P1"
+        },
+        {
+          "pc": 5,
+          "name": "+Shrakawa"
+        },
+        {
+          "pc": 6,
+          "name": "+SynHrpsi"
+        },
+        {
+          "pc": 7,
+          "name": "PulseClv"
+        },
+        {
+          "pc": 8,
+          "name": "+FMCelesta"
+        },
+        {
+          "pc": 10,
+          "name": "Orgel"
+        },
+        {
+          "pc": 12,
+          "name": "SineMrmb"
+        },
+        {
+          "pc": 16,
+          "name": "Organ Ba"
+        },
+        {
+          "pc": 17,
+          "name": "JazOrgan ***"
+        },
+        {
+          "pc": 18,
+          "name": "RotaryOr"
+        },
+        {
+          "pc": 19,
+          "name": "OrgFlute"
+        },
+        {
+          "pc": 20,
+          "name": "+SyReedDk"
+        },
+        {
+          "pc": 23,
+          "name": "TngoAcd2"
+        },
+        {
+          "pc": 24,
+          "name": "+EsGuitar"
+        },
+        {
+          "pc": 25,
+          "name": "+Nashvlle"
+        },
+        {
+          "pc": 26,
+          "name": "+SuperJzM"
+        },
+        {
+          "pc": 27,
+          "name": "CleanGt2 **"
+        },
+        {
+          "pc": 28,
+          "name": "+Wrench"
+        },
+        {
+          "pc": 29,
+          "name": "+ManhttnM"
+        },
+        {
+          "pc": 30,
+          "name": "+Bite"
+        },
+        {
+          "pc": 31,
+          "name": "AcoHarmo **"
+        },
+        {
+          "pc": 32,
+          "name": "+Boston"
+        },
+        {
+          "pc": 33,
+          "name": "Jazzy Ba **"
+        },
+        {
+          "pc": 34,
+          "name": "+HardPick"
+        },
+        {
+          "pc": 35,
+          "name": "+PwrFrtls"
+        },
+        {
+          "pc": 36,
+          "name": "Slapper ***"
+        },
+        {
+          "pc": 38,
+          "name": "Orbiter"
+        },
+        {
+          "pc": 39,
+          "name": "X WireBa"
+        },
+        {
+          "pc": 40,
+          "name": "+Cadenza"
+        },
+        {
+          "pc": 41,
+          "name": "+Sonata"
+        },
+        {
+          "pc": 42,
+          "name": "++CelloSec"
+        },
+        {
+          "pc": 43,
+          "name": "++CB Sec"
+        },
+        {
+          "pc": 44,
+          "name": "+Fear"
+        },
+        {
+          "pc": 45,
+          "name": "++Collegno"
+        },
+        {
+          "pc": 46,
+          "name": "El.Harp"
+        },
+        {
+          "pc": 48,
+          "name": "+SprStrng"
+        },
+        {
+          "pc": 49,
+          "name": "70s Str"
+        },
+        {
+          "pc": 50,
+          "name": "Syn Str4"
+        },
+        {
+          "pc": 51,
+          "name": "+Hope"
+        },
+        {
+          "pc": 52,
+          "name": "StrngAah **"
+        },
+        {
+          "pc": 53,
+          "name": "VoiceDoo **"
+        },
+        {
+          "pc": 54,
+          "name": "AnaVoice"
+        },
+        {
+          "pc": 55,
+          "name": "Impact"
+        },
+        {
+          "pc": 56,
+          "name": "Dark Trp ***"
+        },
+        {
+          "pc": 57,
+          "name": "BrghtTrb ***"
+        },
+        {
+          "pc": 58,
+          "name": "+++Hrd Tuba"
+        },
+        {
+          "pc": 59,
+          "name": "MuteTrp2 **"
+        },
+        {
+          "pc": 60,
+          "name": "+Syn Horn"
+        },
+        {
+          "pc": 61,
+          "name": "+SprBrass"
+        },
+        {
+          "pc": 62,
+          "name": "AnaBrss1"
+        },
+        {
+          "pc": 63,
+          "name": "AnaBrss2"
+        },
+        {
+          "pc": 64,
+          "name": "+Mdtation"
+        },
+        {
+          "pc": 65,
+          "name": "+ASaxPwrd"
+        },
+        {
+          "pc": 66,
+          "name": "TnrSax 2"
+        },
+        {
+          "pc": 68,
+          "name": "+Heinz"
+        },
+        {
+          "pc": 73,
+          "name": "+Boehm"
+        },
+        {
+          "pc": 74,
+          "name": "+Piplith"
+        },
+        {
+          "pc": 75,
+          "name": "PanFlut2 **"
+        },
+        {
+          "pc": 76,
+          "name": "+BottlLgt"
+        },
+        {
+          "pc": 78,
+          "name": "+Reverie"
+        },
+        {
+          "pc": 79,
+          "name": "+Opalina"
+        },
+        {
+          "pc": 80,
+          "name": "Mellow"
+        },
+        {
+          "pc": 81,
+          "name": "Digger ***"
+        },
+        {
+          "pc": 82,
+          "name": "Vent Syn **"
+        },
+        {
+          "pc": 83,
+          "name": "Rubby"
+        },
+        {
+          "pc": 84,
+          "name": "DistLead"
+        },
+        {
+          "pc": 85,
+          "name": "Vox Lead"
+        },
+        {
+          "pc": 87,
+          "name": "Fat&Prky"
+        },
+        {
+          "pc": 88,
+          "name": "Fantasy"
+        },
+        {
+          "pc": 89,
+          "name": "Horn Pad"
+        },
+        {
+          "pc": 90,
+          "name": "PolyPd80"
+        },
+        {
+          "pc": 91,
+          "name": "Heaven"
+        },
+        {
+          "pc": 92,
+          "name": "Glacier"
+        },
+        {
+          "pc": 93,
+          "name": "Tine Pad"
+        },
+        {
+          "pc": 94,
+          "name": "+Aries"
+        },
+        {
+          "pc": 95,
+          "name": "PolarPad"
+        },
+        {
+          "pc": 96,
+          "name": "HrmoRain"
+        },
+        {
+          "pc": 97,
+          "name": "Ancestrl"
+        },
+        {
+          "pc": 98,
+          "name": "SynMalet"
+        },
+        {
+          "pc": 99,
+          "name": "NylnHarp"
+        },
+        {
+          "pc": 100,
+          "name": "FantaBel"
+        },
+        {
+          "pc": 101,
+          "name": "GobSynth"
+        },
+        {
+          "pc": 102,
+          "name": "EchoBell"
+        },
+        {
+          "pc": 103,
+          "name": "Starz"
+        },
+        {
+          "pc": 104,
+          "name": "+Raga Syn"
+        },
+        {
+          "pc": 105,
+          "name": "+El Banjo"
+        },
+        {
+          "pc": 107,
+          "name": "+FM Koto"
+        },
+        {
+          "pc": 108,
+          "name": "BigKalim **"
+        },
+        {
+          "pc": 109,
+          "name": "+Thistle"
+        },
+        {
+          "pc": 111,
+          "name": "Shanai 2"
+        },
+        {
+          "pc": 112,
+          "name": "+TcklBell"
+        },
+        {
+          "pc": 117,
+          "name": "Mel Tom2"
+        },
+        {
+          "pc": 118,
+          "name": "Ana Tom"
+        },
+        {
+          "pc": 119,
+          "name": "Rev Cym2**"
+        }
+      ]
+    },
+    {
+      "bank": 65,
+      "bankLabel": "Other Waves 2",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "+ConGrndK"
+        },
+        {
+          "pc": 1,
+          "name": "+BrConGrK"
+        },
+        {
+          "pc": 4,
+          "name": "+Old EP"
+        },
+        {
+          "pc": 5,
+          "name": "+OldEP Tn"
+        },
+        {
+          "pc": 7,
+          "name": "PierceCl"
+        },
+        {
+          "pc": 10,
+          "name": "+SmalOrgl"
+        },
+        {
+          "pc": 16,
+          "name": "70sDrOr2"
+        },
+        {
+          "pc": 17,
+          "name": "WarmJzOr ***"
+        },
+        {
+          "pc": 18,
+          "name": "SloRotar"
+        },
+        {
+          "pc": 19,
+          "name": "TrmOrgFl"
+        },
+        {
+          "pc": 23,
+          "name": "+TightAcd"
+        },
+        {
+          "pc": 24,
+          "name": "+EsGtrHrd"
+        },
+        {
+          "pc": 25,
+          "name": "+NashvllR"
+        },
+        {
+          "pc": 26,
+          "name": "+SuperJzB"
+        },
+        {
+          "pc": 27,
+          "name": "MidT.Gtr ***"
+        },
+        {
+          "pc": 28,
+          "name": "+WrenchHv"
+        },
+        {
+          "pc": 29,
+          "name": "+ManhttnB"
+        },
+        {
+          "pc": 30,
+          "name": "+Bite Res"
+        },
+        {
+          "pc": 31,
+          "name": "GtFeedbk"
+        },
+        {
+          "pc": 32,
+          "name": "+BostnBrt"
+        },
+        {
+          "pc": 33,
+          "name": "Mod.Bass"
+        },
+        {
+          "pc": 34,
+          "name": "+HrdPikRs"
+        },
+        {
+          "pc": 35,
+          "name": "+PwrFrtlR"
+        },
+        {
+          "pc": 36,
+          "name": "Thum&Slp ***"
+        },
+        {
+          "pc": 38,
+          "name": "Sqr.Bass"
+        },
+        {
+          "pc": 39,
+          "name": "AtkPulse ***"
+        },
+        {
+          "pc": 40,
+          "name": "+CadenzDk"
+        },
+        {
+          "pc": 41,
+          "name": "++Vla Sec"
+        },
+        {
+          "pc": 42,
+          "name": "++Hrd Vcs"
+        },
+        {
+          "pc": 43,
+          "name": "++Hrd CBs"
+        },
+        {
+          "pc": 44,
+          "name": "+Fear Dtd"
+        },
+        {
+          "pc": 48,
+          "name": "+SprStrSt"
+        },
+        {
+          "pc": 49,
+          "name": "Strings3"
+        },
+        {
+          "pc": 50,
+          "name": "Syn Str5"
+        },
+        {
+          "pc": 51,
+          "name": "+Virgo"
+        },
+        {
+          "pc": 52,
+          "name": "Male Aah **"
+        },
+        {
+          "pc": 53,
+          "name": "+Hmn"
+        },
+        {
+          "pc": 54,
+          "name": "+Aspirate"
+        },
+        {
+          "pc": 55,
+          "name": "BrssStab **"
+        },
+        {
+          "pc": 56,
+          "name": "DrkTpSft ***"
+        },
+        {
+          "pc": 57,
+          "name": "MellowTb ***"
+        },
+        {
+          "pc": 58,
+          "name": "+++Slw Tuba +++"
+        },
+        {
+          "pc": 59,
+          "name": "+Bkstairs"
+        },
+        {
+          "pc": 60,
+          "name": "HornOrc2"
+        },
+        {
+          "pc": 61,
+          "name": "+SprBrCut"
+        },
+        {
+          "pc": 62,
+          "name": "+SynthThn"
+        },
+        {
+          "pc": 63,
+          "name": "+Soft Cut"
+        },
+        {
+          "pc": 64,
+          "name": "+MdtatnRs"
+        },
+        {
+          "pc": 65,
+          "name": "+FakeAlto"
+        },
+        {
+          "pc": 66,
+          "name": "+SprTenor"
+        },
+        {
+          "pc": 68,
+          "name": "+HeinzUni"
+        },
+        {
+          "pc": 73,
+          "name": "+Boehm Br"
+        },
+        {
+          "pc": 74,
+          "name": "+Home"
+        },
+        {
+          "pc": 75,
+          "name": "+Meadow"
+        },
+        {
+          "pc": 80,
+          "name": "SoloSine"
+        },
+        {
+          "pc": 81,
+          "name": "+Dunce"
+        },
+        {
+          "pc": 82,
+          "name": "PureLead"
+        },
+        {
+          "pc": 83,
+          "name": "HardSync ***"
+        },
+        {
+          "pc": 84,
+          "name": "WireLead"
+        },
+        {
+          "pc": 85,
+          "name": "Br.Layer ***"
+        },
+        {
+          "pc": 87,
+          "name": "Soft Wrl"
+        },
+        {
+          "pc": 88,
+          "name": "+Libra"
+        },
+        {
+          "pc": 89,
+          "name": "RotarStr"
+        },
+        {
+          "pc": 90,
+          "name": "ClickPad"
+        },
+        {
+          "pc": 91,
+          "name": "Lite Pad **"
+        },
+        {
+          "pc": 92,
+          "name": "GlassPad"
+        },
+        {
+          "pc": 93,
+          "name": "Pan Pad"
+        },
+        {
+          "pc": 94,
+          "name": "ChorusPd"
+        },
+        {
+          "pc": 95,
+          "name": "Sweepy **"
+        },
+        {
+          "pc": 96,
+          "name": "AfrcnWnd"
+        },
+        {
+          "pc": 97,
+          "name": "Rave **"
+        },
+        {
+          "pc": 98,
+          "name": "SftCryst"
+        },
+        {
+          "pc": 99,
+          "name": "Harp Vox"
+        },
+        {
+          "pc": 100,
+          "name": "ShinStar"
+        },
+        {
+          "pc": 101,
+          "name": "Creeper"
+        },
+        {
+          "pc": 102,
+          "name": "Big Pan"
+        },
+        {
+          "pc": 103,
+          "name": "Odin **"
+        },
+        {
+          "pc": 117,
+          "name": "Real Tom"
+        },
+        {
+          "pc": 118,
+          "name": "ElecPerc"
+        },
+        {
+          "pc": 119,
+          "name": "Rev Cym3"
+        }
+      ]
+    },
+    {
+      "bank": 66,
+      "bankLabel": "Other Waves 3",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "+DblConGr"
+        },
+        {
+          "pc": 1,
+          "name": "+MIDIGrd3"
+        },
+        {
+          "pc": 4,
+          "name": "+Tribecca"
+        },
+        {
+          "pc": 5,
+          "name": "+Flips"
+        },
+        {
+          "pc": 7,
+          "name": "+ClrClavi"
+        },
+        {
+          "pc": 16,
+          "name": "CheezOrg"
+        },
+        {
+          "pc": 17,
+          "name": "ClikOrgn ***"
+        },
+        {
+          "pc": 18,
+          "name": "FstRotar"
+        },
+        {
+          "pc": 23,
+          "name": "+TghtAcdD"
+        },
+        {
+          "pc": 24,
+          "name": "+EsGtMllo"
+        },
+        {
+          "pc": 25,
+          "name": "+Nashvl12"
+        },
+        {
+          "pc": 26,
+          "name": "+SuperJzD"
+        },
+        {
+          "pc": 27,
+          "name": "MidTGtSt ***"
+        },
+        {
+          "pc": 28,
+          "name": "+WrnchDbl"
+        },
+        {
+          "pc": 29,
+          "name": "+ManhttnD"
+        },
+        {
+          "pc": 30,
+          "name": "+BiteDtd"
+        },
+        {
+          "pc": 31,
+          "name": "GtrHrmo2"
+        },
+        {
+          "pc": 32,
+          "name": "+Coolth"
+        },
+        {
+          "pc": 33,
+          "name": "+Chase"
+        },
+        {
+          "pc": 34,
+          "name": "+PkBass+"
+        },
+        {
+          "pc": 35,
+          "name": "+TalkinBa"
+        },
+        {
+          "pc": 36,
+          "name": "+GltzySlp"
+        },
+        {
+          "pc": 38,
+          "name": "RubberBa"
+        },
+        {
+          "pc": 39,
+          "name": "CS Light ***"
+        },
+        {
+          "pc": 40,
+          "name": "++Vln Sec"
+        },
+        {
+          "pc": 41,
+          "name": "++Hrd Vlas"
+        },
+        {
+          "pc": 42,
+          "name": "++Slw Vcs"
+        },
+        {
+          "pc": 43,
+          "name": "++Slw CBs"
+        },
+        {
+          "pc": 44,
+          "name": "+Apoclyps"
+        },
+        {
+          "pc": 48,
+          "name": "+Triste"
+        },
+        {
+          "pc": 50,
+          "name": "+Solitude"
+        },
+        {
+          "pc": 51,
+          "name": "+Platinum"
+        },
+        {
+          "pc": 52,
+          "name": "+Scroll"
+        },
+        {
+          "pc": 53,
+          "name": "+WrlChoir"
+        },
+        {
+          "pc": 54,
+          "name": "+AsprateD"
+        },
+        {
+          "pc": 55,
+          "name": "DoublHit **"
+        },
+        {
+          "pc": 56,
+          "name": "+Soft Trp"
+        },
+        {
+          "pc": 57,
+          "name": "+JJJ"
+        },
+        {
+          "pc": 58,
+          "name": "+++Euphon"
+        },
+        {
+          "pc": 60,
+          "name": "+++Brt Horn"
+        },
+        {
+          "pc": 61,
+          "name": "+SprBrBlw"
+        },
+        {
+          "pc": 62,
+          "name": "+SyncBrss"
+        },
+        {
+          "pc": 63,
+          "name": "+AnaHornS"
+        },
+        {
+          "pc": 65,
+          "name": "+FakeAlt+"
+        },
+        {
+          "pc": 66,
+          "name": "+SprTnr +"
+        },
+        {
+          "pc": 68,
+          "name": "Oboe Exp"
+        },
+        {
+          "pc": 73,
+          "name": "+Pastoral"
+        },
+        {
+          "pc": 80,
+          "name": "SineLead"
+        },
+        {
+          "pc": 81,
+          "name": "+BrassSaw"
+        },
+        {
+          "pc": 82,
+          "name": "+ElPrimtv"
+        },
+        {
+          "pc": 84,
+          "name": "SynPluck ***"
+        },
+        {
+          "pc": 85,
+          "name": "+Cypher 1"
+        },
+        {
+          "pc": 87,
+          "name": "+Cant"
+        },
+        {
+          "pc": 88,
+          "name": "Bell Pad"
+        },
+        {
+          "pc": 89,
+          "name": "+++LightPad"
+        },
+        {
+          "pc": 90,
+          "name": "Ana. Pad"
+        },
+        {
+          "pc": 91,
+          "name": "Itopia"
+        },
+        {
+          "pc": 92,
+          "name": "+SqrTwang"
+        },
+        {
+          "pc": 93,
+          "name": "+Queever"
+        },
+        {
+          "pc": 95,
+          "name": "Celstial"
+        },
+        {
+          "pc": 96,
+          "name": "Carib"
+        },
+        {
+          "pc": 97,
+          "name": "Fairy ***"
+        },
+        {
+          "pc": 98,
+          "name": "LoudGlok"
+        },
+        {
+          "pc": 99,
+          "name": "AtmosPad"
+        },
+        {
+          "pc": 100,
+          "name": "BritStab"
+        },
+        {
+          "pc": 101,
+          "name": "Ring Pad"
+        },
+        {
+          "pc": 102,
+          "name": "SynPiano"
+        },
+        {
+          "pc": 117,
+          "name": "Rock Tom"
+        },
+        {
+          "pc": 118,
+          "name": "Syn Perc"
+        }
+      ]
+    },
+    {
+      "bank": 67,
+      "bankLabel": "Other Waves 4",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "+MIDIGrd1"
+        },
+        {
+          "pc": 1,
+          "name": "+MIDIGrd4"
+        },
+        {
+          "pc": 4,
+          "name": "+Diploid1"
+        },
+        {
+          "pc": 5,
+          "name": "+FlipsDtd"
+        },
+        {
+          "pc": 7,
+          "name": "+SwpClavi"
+        },
+        {
+          "pc": 16,
+          "name": "DrawOrg3"
+        },
+        {
+          "pc": 17,
+          "name": "+Grace"
+        },
+        {
+          "pc": 18,
+          "name": "+GlaclRtr"
+        },
+        {
+          "pc": 24,
+          "name": "+EsGtrDcy"
+        },
+        {
+          "pc": 25,
+          "name": "+++OldSmple"
+        },
+        {
+          "pc": 26,
+          "name": "+SuperJzR"
+        },
+        {
+          "pc": 27,
+          "name": "NasalGtr ***"
+        },
+        {
+          "pc": 28,
+          "name": "+Tin"
+        },
+        {
+          "pc": 29,
+          "name": "+ManhttnP"
+        },
+        {
+          "pc": 30,
+          "name": "+Bite +"
+        },
+        {
+          "pc": 31,
+          "name": "+Shimla"
+        },
+        {
+          "pc": 32,
+          "name": "+Coolth B"
+        },
+        {
+          "pc": 33,
+          "name": "+ChaseRes"
+        },
+        {
+          "pc": 34,
+          "name": "PickBa 4"
+        },
+        {
+          "pc": 35,
+          "name": "+NoizFrtl"
+        },
+        {
+          "pc": 36,
+          "name": "+FM Slap"
+        },
+        {
+          "pc": 38,
+          "name": "Fish ***"
+        },
+        {
+          "pc": 39,
+          "name": "MetlBass ***"
+        },
+        {
+          "pc": 40,
+          "name": "++Hrd Vlns"
+        },
+        {
+          "pc": 41,
+          "name": "++Slw Vlas"
+        },
+        {
+          "pc": 44,
+          "name": "+++Brt Trem"
+        },
+        {
+          "pc": 48,
+          "name": "+Basso"
+        },
+        {
+          "pc": 50,
+          "name": "+Fate"
+        },
+        {
+          "pc": 51,
+          "name": "+OctavPWM"
+        },
+        {
+          "pc": 52,
+          "name": "+Scroll +"
+        },
+        {
+          "pc": 53,
+          "name": "+++Ooh St"
+        },
+        {
+          "pc": 54,
+          "name": "+Facula"
+        },
+        {
+          "pc": 55,
+          "name": "BrStab80 **"
+        },
+        {
+          "pc": 56,
+          "name": "+Blow"
+        },
+        {
+          "pc": 57,
+          "name": "+++BrllntTb"
+        },
+        {
+          "pc": 60,
+          "name": "+++Hrd Horn"
+        },
+        {
+          "pc": 61,
+          "name": "+Pwrd Sfz"
+        },
+        {
+          "pc": 62,
+          "name": "+SyncBrSt"
+        },
+        {
+          "pc": 65,
+          "name": "+FakeAltD"
+        },
+        {
+          "pc": 66,
+          "name": "+SprTnrSt"
+        },
+        {
+          "pc": 73,
+          "name": "+Shepherd"
+        },
+        {
+          "pc": 80,
+          "name": "Pulse Ld ***"
+        },
+        {
+          "pc": 81,
+          "name": "+SawRiver"
+        },
+        {
+          "pc": 84,
+          "name": "+++The Sync"
+        },
+        {
+          "pc": 85,
+          "name": "+Cypher 2"
+        },
+        {
+          "pc": 87,
+          "name": "+Mogul"
+        },
+        {
+          "pc": 90,
+          "name": "SquarPad"
+        },
+        {
+          "pc": 91,
+          "name": "CC Pad"
+        },
+        {
+          "pc": 92,
+          "name": "SquarPd8"
+        },
+        {
+          "pc": 95,
+          "name": "+Monsoon"
+        },
+        {
+          "pc": 97,
+          "name": "+Hermit"
+        },
+        {
+          "pc": 98,
+          "name": "ChrstBel"
+        },
+        {
+          "pc": 99,
+          "name": "Planet"
+        },
+        {
+          "pc": 101,
+          "name": "Ritual"
+        },
+        {
+          "pc": 102,
+          "name": "Creation"
+        },
+        {
+          "pc": 117,
+          "name": "+++Tim'sSet"
+        }
+      ]
+    },
+    {
+      "bank": 68,
+      "bankLabel": "Other Waves 5",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "+MIDIGrd2"
+        },
+        {
+          "pc": 1,
+          "name": "+OldPiano"
+        },
+        {
+          "pc": 4,
+          "name": "+Flops"
+        },
+        {
+          "pc": 5,
+          "name": "+Flicks"
+        },
+        {
+          "pc": 7,
+          "name": "+SynClavi"
+        },
+        {
+          "pc": 16,
+          "name": "StdiumOr ***"
+        },
+        {
+          "pc": 17,
+          "name": "+CrnGrace"
+        },
+        {
+          "pc": 26,
+          "name": "+Dx JzGtr"
+        },
+        {
+          "pc": 27,
+          "name": "NaslGtSt ***"
+        },
+        {
+          "pc": 28,
+          "name": "+++GrooveMt"
+        },
+        {
+          "pc": 30,
+          "name": "+Burnout"
+        },
+        {
+          "pc": 33,
+          "name": "+BlueBass"
+        },
+        {
+          "pc": 36,
+          "name": "+FMSlpDtd"
+        },
+        {
+          "pc": 38,
+          "name": "HardReso ***"
+        },
+        {
+          "pc": 39,
+          "name": "+FrcOscBa"
+        },
+        {
+          "pc": 40,
+          "name": "++Slw Vlns"
+        },
+        {
+          "pc": 48,
+          "name": "++Stacc H"
+        },
+        {
+          "pc": 50,
+          "name": "+Thulium"
+        },
+        {
+          "pc": 51,
+          "name": "+Taurus"
+        },
+        {
+          "pc": 52,
+          "name": "+++Aah St"
+        },
+        {
+          "pc": 55,
+          "name": "Bass Hit ***"
+        },
+        {
+          "pc": 56,
+          "name": "+Blow Dbl"
+        },
+        {
+          "pc": 57,
+          "name": "+++Hrd Tb"
+        },
+        {
+          "pc": 61,
+          "name": "+PwrSfzBr"
+        },
+        {
+          "pc": 62,
+          "name": "+AnaHorn1"
+        },
+        {
+          "pc": 66,
+          "name": "+Tnr&Alto"
+        },
+        {
+          "pc": 80,
+          "name": "SyncLead ***"
+        },
+        {
+          "pc": 81,
+          "name": "+BrPulsDb"
+        },
+        {
+          "pc": 85,
+          "name": "+Cypher 3"
+        },
+        {
+          "pc": 87,
+          "name": "+Distance"
+        },
+        {
+          "pc": 90,
+          "name": "Show Pad ***"
+        },
+        {
+          "pc": 91,
+          "name": "CosmicPd ***"
+        },
+        {
+          "pc": 95,
+          "name": "+lo"
+        },
+        {
+          "pc": 98,
+          "name": "VibeBell"
+        },
+        {
+          "pc": 99,
+          "name": "+Lyra"
+        },
+        {
+          "pc": 101,
+          "name": "ToHeaven"
+        },
+        {
+          "pc": 102,
+          "name": "StarDust"
+        }
+      ]
+    },
+    {
+      "bank": 69,
+      "bankLabel": "Other Waves 6",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "+++OldestAP"
+        },
+        {
+          "pc": 4,
+          "name": "+Soho"
+        },
+        {
+          "pc": 5,
+          "name": "+FliksDtd"
+        },
+        {
+          "pc": 7,
+          "name": "+SprClavi"
+        },
+        {
+          "pc": 16,
+          "name": "StdiumO2 ***"
+        },
+        {
+          "pc": 17,
+          "name": "+DimClick"
+        },
+        {
+          "pc": 26,
+          "name": "+DXJzGt.D"
+        },
+        {
+          "pc": 27,
+          "name": "+Hammer M"
+        },
+        {
+          "pc": 30,
+          "name": "+Bombay"
+        },
+        {
+          "pc": 33,
+          "name": "JazzyBa2"
+        },
+        {
+          "pc": 38,
+          "name": "+Wah Saw"
+        },
+        {
+          "pc": 39,
+          "name": "+Cubit"
+        },
+        {
+          "pc": 48,
+          "name": "++Stacc L"
+        },
+        {
+          "pc": 50,
+          "name": "+Brook"
+        },
+        {
+          "pc": 51,
+          "name": "+Frost"
+        },
+        {
+          "pc": 52,
+          "name": "+++Aah Mix"
+        },
+        {
+          "pc": 55,
+          "name": "BassHit+ ***"
+        },
+        {
+          "pc": 56,
+          "name": "4th TP"
+        },
+        {
+          "pc": 57,
+          "name": "+++BrtBTb"
+        },
+        {
+          "pc": 61,
+          "name": "+Alto&Trp"
+        },
+        {
+          "pc": 62,
+          "name": "+AnaHorn2"
+        },
+        {
+          "pc": 80,
+          "name": "+ForcdOsc"
+        },
+        {
+          "pc": 81,
+          "name": "+Saw Trp"
+        },
+        {
+          "pc": 85,
+          "name": "+SprCyphr"
+        },
+        {
+          "pc": 87,
+          "name": "+Sync B&L"
+        },
+        {
+          "pc": 90,
+          "name": "+Pixie"
+        },
+        {
+          "pc": 91,
+          "name": "+++Aah Pad"
+        },
+        {
+          "pc": 98,
+          "name": "DigiBell"
+        },
+        {
+          "pc": 99,
+          "name": "+Akasaka"
+        },
+        {
+          "pc": 101,
+          "name": "MilkyWay **"
+        },
+        {
+          "pc": 102,
+          "name": "Reso&Pan"
+        }
+      ]
+    },
+    {
+      "bank": 70,
+      "bankLabel": "Other Waves 7",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "+FlopsDtd"
+        },
+        {
+          "pc": 5,
+          "name": "+BrightDX"
+        },
+        {
+          "pc": 7,
+          "name": "+GtrClavi"
+        },
+        {
+          "pc": 16,
+          "name": "GospelOr ***"
+        },
+        {
+          "pc": 17,
+          "name": "+Dusk"
+        },
+        {
+          "pc": 26,
+          "name": "+PulsJazz"
+        },
+        {
+          "pc": 27,
+          "name": "+Hammer B"
+        },
+        {
+          "pc": 30,
+          "name": "+Bombay S"
+        },
+        {
+          "pc": 33,
+          "name": "FngBass3"
+        },
+        {
+          "pc": 38,
+          "name": "+Pluto"
+        },
+        {
+          "pc": 39,
+          "name": "+Cubit +"
+        },
+        {
+          "pc": 48,
+          "name": "Hall Str"
+        },
+        {
+          "pc": 50,
+          "name": "+Brook St"
+        },
+        {
+          "pc": 51,
+          "name": "+Leo"
+        },
+        {
+          "pc": 52,
+          "name": "+++Aah Orch"
+        },
+        {
+          "pc": 55,
+          "name": "6th Hit ***"
+        },
+        {
+          "pc": 56,
+          "name": "Synth Tp"
+        },
+        {
+          "pc": 57,
+          "name": "+++Hrd Btb"
+        },
+        {
+          "pc": 61,
+          "name": "+Tnr&Trp"
+        },
+        {
+          "pc": 62,
+          "name": "+AnHrnOct"
+        },
+        {
+          "pc": 80,
+          "name": "+Accent"
+        },
+        {
+          "pc": 81,
+          "name": "+Hue"
+        },
+        {
+          "pc": 87,
+          "name": "Ba Lead"
+        },
+        {
+          "pc": 90,
+          "name": "+Pisces"
+        },
+        {
+          "pc": 91,
+          "name": "+++Ooh Pad"
+        },
+        {
+          "pc": 98,
+          "name": "AirBells"
+        },
+        {
+          "pc": 99,
+          "name": "+DgBermda"
+        },
+        {
+          "pc": 101,
+          "name": "Night"
+        },
+        {
+          "pc": 102,
+          "name": "Ana Echo"
+        }
+      ]
+    },
+    {
+      "bank": 71,
+      "bankLabel": "Other Waves 8",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "+Diploid2"
+        },
+        {
+          "pc": 5,
+          "name": "+BrtDXDtd"
+        },
+        {
+          "pc": 7,
+          "name": "+HardyPlk"
+        },
+        {
+          "pc": 16,
+          "name": "ClkGsplO ***"
+        },
+        {
+          "pc": 17,
+          "name": "+FM Click"
+        },
+        {
+          "pc": 26,
+          "name": "+RghcastN"
+        },
+        {
+          "pc": 27,
+          "name": "+Hammer D"
+        },
+        {
+          "pc": 30,
+          "name": "+Jaipur"
+        },
+        {
+          "pc": 38,
+          "name": "+Pluto +"
+        },
+        {
+          "pc": 39,
+          "name": "+Keel"
+        },
+        {
+          "pc": 48,
+          "name": "Str/FHrn"
+        },
+        {
+          "pc": 50,
+          "name": "OldSynSt"
+        },
+        {
+          "pc": 51,
+          "name": "+SolPlexs"
+        },
+        {
+          "pc": 55,
+          "name": "6thHit + ***"
+        },
+        {
+          "pc": 56,
+          "name": "+++Sweet Tp"
+        },
+        {
+          "pc": 61,
+          "name": "+BrssBros"
+        },
+        {
+          "pc": 62,
+          "name": "+SawBrPwr"
+        },
+        {
+          "pc": 80,
+          "name": "+Brick"
+        },
+        {
+          "pc": 81,
+          "name": "+StrghtSw"
+        },
+        {
+          "pc": 90,
+          "name": "+Spiral"
+        },
+        {
+          "pc": 91,
+          "name": "+++Ooh Aah"
+        },
+        {
+          "pc": 98,
+          "name": "BellHarp"
+        },
+        {
+          "pc": 99,
+          "name": "Cloud Pd"
+        },
+        {
+          "pc": 101,
+          "name": "Glisten"
+        }
+      ]
+    },
+    {
+      "bank": 72,
+      "bankLabel": "Other Waves 9",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "+Brooklyn"
+        },
+        {
+          "pc": 5,
+          "name": "+Kitayama"
+        },
+        {
+          "pc": 7,
+          "name": "+HrdyPlk"
+        },
+        {
+          "pc": 16,
+          "name": "ChapelOr ***"
+        },
+        {
+          "pc": 17,
+          "name": "+Spoony"
+        },
+        {
+          "pc": 26,
+          "name": "+RghcastM"
+        },
+        {
+          "pc": 27,
+          "name": "+HammerSt"
+        },
+        {
+          "pc": 38,
+          "name": "+Stimuli"
+        },
+        {
+          "pc": 39,
+          "name": "+KeelPwrd"
+        },
+        {
+          "pc": 48,
+          "name": "+++SolidStr"
+        },
+        {
+          "pc": 51,
+          "name": "SunRise"
+        },
+        {
+          "pc": 55,
+          "name": "Euro Hit ***"
+        },
+        {
+          "pc": 56,
+          "name": "+++Mllw Swt"
+        },
+        {
+          "pc": 61,
+          "name": "+VagueBro"
+        },
+        {
+          "pc": 80,
+          "name": "+Alum"
+        },
+        {
+          "pc": 81,
+          "name": "+StrtPuls"
+        },
+        {
+          "pc": 90,
+          "name": "PolySPd2"
+        },
+        {
+          "pc": 98,
+          "name": "Gamelmba"
+        },
+        {
+          "pc": 99,
+          "name": "PulseKey"
+        },
+        {
+          "pc": 101,
+          "name": "Puffy **"
+        }
+      ]
+    },
+    {
+      "bank": 73,
+      "bankLabel": "Other Waves 10",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "+Diploid3"
+        },
+        {
+          "pc": 5,
+          "name": "+Turnpik1"
+        },
+        {
+          "pc": 7,
+          "name": "+FMClavDb"
+        },
+        {
+          "pc": 16,
+          "name": "+DimChors"
+        },
+        {
+          "pc": 17,
+          "name": "+SprRotry"
+        },
+        {
+          "pc": 27,
+          "name": "+FMChoGtr"
+        },
+        {
+          "pc": 38,
+          "name": "+RunPulse"
+        },
+        {
+          "pc": 39,
+          "name": "+PlnPulse"
+        },
+        {
+          "pc": 48,
+          "name": "+++SwellStr"
+        },
+        {
+          "pc": 55,
+          "name": "EuroHit+ ***"
+        },
+        {
+          "pc": 56,
+          "name": "+++NormTps"
+        },
+        {
+          "pc": 61,
+          "name": "BrssSec3"
+        },
+        {
+          "pc": 80,
+          "name": "+Query"
+        },
+        {
+          "pc": 81,
+          "name": "+PWMania"
+        },
+        {
+          "pc": 90,
+          "name": "PolyPdKg"
+        },
+        {
+          "pc": 98,
+          "name": "+Bounce"
+        },
+        {
+          "pc": 99,
+          "name": "NoisePno"
+        },
+        {
+          "pc": 101,
+          "name": "+Mimicry"
+        }
+      ]
+    },
+    {
+      "bank": 74,
+      "bankLabel": "Other Waves 11",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "PhunkyDX"
+        },
+        {
+          "pc": 5,
+          "name": "Turnpik2"
+        },
+        {
+          "pc": 7,
+          "name": "+++RobotClv"
+        },
+        {
+          "pc": 16,
+          "name": "Dawn"
+        },
+        {
+          "pc": 17,
+          "name": "LoFiOrgn"
+        },
+        {
+          "pc": 27,
+          "name": "FMChoGtS"
+        },
+        {
+          "pc": 38,
+          "name": "TalkPuls"
+        },
+        {
+          "pc": 39,
+          "name": "PwrdPuls"
+        },
+        {
+          "pc": 48,
+          "name": "+++Str+Brss"
+        },
+        {
+          "pc": 55,
+          "name": "Blowout"
+        },
+        {
+          "pc": 56,
+          "name": "+++BrlltTp"
+        },
+        {
+          "pc": 61,
+          "name": "SfrzdBr2"
+        },
+        {
+          "pc": 80,
+          "name": "+FMSlwSwp"
+        },
+        {
+          "pc": 81,
+          "name": "+Mod Saw"
+        },
+        {
+          "pc": 98,
+          "name": "Ana Bell"
+        },
+        {
+          "pc": 101,
+          "name": "+Parasite"
+        }
+      ]
+    },
+    {
+      "bank": 75,
+      "bankLabel": "Other Waves 12",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "+Nasal DX"
+        },
+        {
+          "pc": 5,
+          "name": "+Cerritos"
+        },
+        {
+          "pc": 16,
+          "name": "+Mellorgn"
+        },
+        {
+          "pc": 17,
+          "name": "+BeepOrgn"
+        },
+        {
+          "pc": 27,
+          "name": "+PeskyGtr"
+        },
+        {
+          "pc": 38,
+          "name": "+Node"
+        },
+        {
+          "pc": 39,
+          "name": "+PwrPulsB"
+        },
+        {
+          "pc": 48,
+          "name": "+++3oct Str"
+        },
+        {
+          "pc": 55,
+          "name": "+++Trcrtps"
+        },
+        {
+          "pc": 56,
+          "name": "+++Fantare"
+        },
+        {
+          "pc": 61,
+          "name": "OctBrass"
+        },
+        {
+          "pc": 80,
+          "name": "+SyncLdDb"
+        },
+        {
+          "pc": 81,
+          "name": "+Toad"
+        },
+        {
+          "pc": 101,
+          "name": "+Cicada"
+        }
+      ]
+    },
+    {
+      "bank": 76,
+      "bankLabel": "Other Waves 13",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "+NaslDxDt"
+        },
+        {
+          "pc": 5,
+          "name": "+Sunset"
+        },
+        {
+          "pc": 16,
+          "name": "+Fuzzorgn"
+        },
+        {
+          "pc": 17,
+          "name": "+Belief"
+        },
+        {
+          "pc": 27,
+          "name": "+ClaviGtr"
+        },
+        {
+          "pc": 38,
+          "name": "+Stainer"
+        },
+        {
+          "pc": 39,
+          "name": "+Pwrd Saw"
+        },
+        {
+          "pc": 48,
+          "name": "+++5partStr"
+        },
+        {
+          "pc": 61,
+          "name": "+++Alps"
+        },
+        {
+          "pc": 80,
+          "name": "+Curse"
+        },
+        {
+          "pc": 81,
+          "name": "+FatOctav"
+        },
+        {
+          "pc": 101,
+          "name": "+Beacon"
+        }
+      ]
+    },
+    {
+      "bank": 77,
+      "bankLabel": "Other Waves 14",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "+Din"
+        },
+        {
+          "pc": 5,
+          "name": "+Soft DX"
+        },
+        {
+          "pc": 16,
+          "name": "+FMO"
+        },
+        {
+          "pc": 17,
+          "name": "+SnapOrgn"
+        },
+        {
+          "pc": 38,
+          "name": "+StainAtk"
+        },
+        {
+          "pc": 39,
+          "name": "+++SmoothBs"
+        },
+        {
+          "pc": 61,
+          "name": "+++Symphnc"
+        },
+        {
+          "pc": 80,
+          "name": "+OctvBeep"
+        },
+        {
+          "pc": 81,
+          "name": "+Overdose"
+        },
+        {
+          "pc": 101,
+          "name": "+++GblnTalk"
+        }
+      ]
+    },
+    {
+      "bank": 78,
+      "bankLabel": "Other Waves 15",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "+++4 Way EP"
+        },
+        {
+          "pc": 5,
+          "name": "+Reso DX"
+        },
+        {
+          "pc": 16,
+          "name": "70sDrOr3"
+        },
+        {
+          "pc": 38,
+          "name": "+SweepSqr"
+        },
+        {
+          "pc": 39,
+          "name": "+++SynAttck"
+        },
+        {
+          "pc": 61,
+          "name": "+++Phoenix"
+        },
+        {
+          "pc": 80,
+          "name": "Sine Ld2"
+        },
+        {
+          "pc": 81,
+          "name": "+PWMDecay"
+        },
+        {
+          "pc": 101,
+          "name": "+++Temple"
+        }
+      ]
+    },
+    {
+      "bank": 79,
+      "bankLabel": "Other Waves 16",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "+++Easy EP"
+        },
+        {
+          "pc": 5,
+          "name": "+PiercnDX"
+        },
+        {
+          "pc": 16,
+          "name": "+++MoodOrgn"
+        },
+        {
+          "pc": 38,
+          "name": "+SwpSqr+"
+        },
+        {
+          "pc": 80,
+          "name": "SquarLd3"
+        },
+        {
+          "pc": 81,
+          "name": "+SawDecay"
+        }
+      ]
+    },
+    {
+      "bank": 80,
+      "bankLabel": "Other Waves 17",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "+++Sine EP"
+        },
+        {
+          "pc": 5,
+          "name": "+ShvrngDX"
+        },
+        {
+          "pc": 38,
+          "name": "+Stinks"
+        },
+        {
+          "pc": 80,
+          "name": "SquarLd4"
+        },
+        {
+          "pc": 81,
+          "name": "FatSawLd"
+        }
+      ]
+    },
+    {
+      "bank": 81,
+      "bankLabel": "Other Waves 18",
+      "tones": [
+        {
+          "pc": 4,
+          "name": "+++Cheap EP"
+        },
+        {
+          "pc": 5,
+          "name": "+ShvrnDX+"
+        },
+        {
+          "pc": 38,
+          "name": "+StnksRes"
+        },
+        {
+          "pc": 81,
+          "name": "DuckLead"
+        }
+      ]
+    },
+    {
+      "bank": 82,
+      "bankLabel": "Other Waves 19",
+      "tones": [
+        {
+          "pc": 5,
+          "name": "+RattlnDX"
+        },
+        {
+          "pc": 38,
+          "name": "+Reso Sqr"
+        },
+        {
+          "pc": 81,
+          "name": "BoostSaw"
+        }
+      ]
+    },
+    {
+      "bank": 83,
+      "bankLabel": "Other Waves 20",
+      "tones": [
+        {
+          "pc": 5,
+          "name": "+RatlnDX+"
+        },
+        {
+          "pc": 38,
+          "name": "+Dagger"
+        },
+        {
+          "pc": 81,
+          "name": "Mr.Saw"
+        }
+      ]
+    },
+    {
+      "bank": 84,
+      "bankLabel": "Other Waves 21",
+      "tones": [
+        {
+          "pc": 5,
+          "name": "+TinkerDX"
+        },
+        {
+          "pc": 38,
+          "name": "+Zinc"
+        },
+        {
+          "pc": 81,
+          "name": "ThinSwLd"
+        }
+      ]
+    },
+    {
+      "bank": 85,
+      "bankLabel": "Other Waves 22",
+      "tones": [
+        {
+          "pc": 5,
+          "name": "+TinkrDX+"
+        },
+        {
+          "pc": 38,
+          "name": "+SweePWM"
+        },
+        {
+          "pc": 81,
+          "name": "MouthSaw"
+        }
+      ]
+    },
+    {
+      "bank": 86,
+      "bankLabel": "Other Waves 23",
+      "tones": [
+        {
+          "pc": 38,
+          "name": "+SwPWM St"
+        },
+        {
+          "pc": 81,
+          "name": "Dr.Lead2"
+        }
+      ]
+    },
+    {
+      "bank": 87,
+      "bankLabel": "Other Waves 24",
+      "tones": [
+        {
+          "pc": 38,
+          "name": "+Slow Wah"
+        },
+        {
+          "pc": 81,
+          "name": "Saw Unis"
+        }
+      ]
+    },
+    {
+      "bank": 88,
+      "bankLabel": "Other Waves 25",
+      "tones": [
+        {
+          "pc": 38,
+          "name": "+Crook"
+        },
+        {
+          "pc": 81,
+          "name": "OctSawLd"
+        }
+      ]
+    },
+    {
+      "bank": 89,
+      "bankLabel": "Other Waves 26",
+      "tones": [
+        {
+          "pc": 38,
+          "name": "FstFltBa"
+        },
+        {
+          "pc": 81,
+          "name": "Seq Saw1"
+        }
+      ]
+    },
+    {
+      "bank": 90,
+      "bankLabel": "Other Waves 27",
+      "tones": [
+        {
+          "pc": 38,
+          "name": "Rubber30"
+        },
+        {
+          "pc": 81,
+          "name": "Seq Saw2"
+        }
+      ]
+    },
+    {
+      "bank": 91,
+      "bankLabel": "Other Waves 28",
+      "tones": [
+        {
+          "pc": 38,
+          "name": "FstResB2"
+        },
+        {
+          "pc": 81,
+          "name": "+++SimplSaw"
+        }
+      ]
+    },
+    {
+      "bank": 92,
+      "bankLabel": "Other Waves 29",
+      "tones": [
+        {
+          "pc": 38,
+          "name": "+++MinneaBs"
+        }
+      ]
+    },
+    {
+      "bank": 93,
+      "bankLabel": "Other Waves 30",
+      "tones": [
+        {
+          "pc": 38,
+          "name": "+++Miami Bs"
+        }
+      ]
+    },
+    {
+      "bank": 94,
+      "bankLabel": "Other Waves 31",
+      "tones": [
+        {
+          "pc": 38,
+          "name": "+++ResoTalk"
+        }
+      ]
+    },
+    {
+      "bank": 96,
+      "bankLabel": "Other Instrument 1",
+      "tones": [
+        {
+          "pc": 12,
+          "name": "Balafon ***"
+        },
+        {
+          "pc": 14,
+          "name": "ChrchBel"
+        },
+        {
+          "pc": 15,
+          "name": "Cimbalom"
+        },
+        {
+          "pc": 24,
+          "name": "Ukulele"
+        },
+        {
+          "pc": 25,
+          "name": "Mandolin"
+        },
+        {
+          "pc": 26,
+          "name": "PdlSteel **"
+        },
+        {
+          "pc": 28,
+          "name": "Mu.DstGt **"
+        },
+        {
+          "pc": 32,
+          "name": "+WalkSyBa"
+        },
+        {
+          "pc": 35,
+          "name": "SynFretl"
+        },
+        {
+          "pc": 38,
+          "name": "Hammer"
+        },
+        {
+          "pc": 46,
+          "name": "+Vln Harp"
+        },
+        {
+          "pc": 53,
+          "name": "VoiceHmn **"
+        },
+        {
+          "pc": 56,
+          "name": "FluglHrn **"
+        },
+        {
+          "pc": 71,
+          "name": "BassClar **"
+        },
+        {
+          "pc": 72,
+          "name": "++Bang Di"
+        },
+        {
+          "pc": 73,
+          "name": "++Qu Di"
+        },
+        {
+          "pc": 75,
+          "name": "Kawala **"
+        },
+        {
+          "pc": 81,
+          "name": "Seq Ana."
+        },
+        {
+          "pc": 100,
+          "name": "Smokey"
+        },
+        {
+          "pc": 101,
+          "name": "BelChoir"
+        },
+        {
+          "pc": 104,
+          "name": "Tambra"
+        },
+        {
+          "pc": 105,
+          "name": "Rabab"
+        },
+        {
+          "pc": 106,
+          "name": "Tsugaru **"
+        },
+        {
+          "pc": 107,
+          "name": "Taisho-k"
+        },
+        {
+          "pc": 109,
+          "name": "++Sheng"
+        },
+        {
+          "pc": 110,
+          "name": "++Er Hu"
+        },
+        {
+          "pc": 111,
+          "name": "Pungi"
+        },
+        {
+          "pc": 112,
+          "name": "Bonang"
+        },
+        {
+          "pc": 113,
+          "name": "Atrigane ***"
+        },
+        {
+          "pc": 114,
+          "name": "Tablas **"
+        },
+        {
+          "pc": 115,
+          "name": "Castanet"
+        },
+        {
+          "pc": 116,
+          "name": "Gr.Cassa"
+        },
+        {
+          "pc": 119,
+          "name": "RevSnar1 **"
+        }
+      ]
+    },
+    {
+      "bank": 97,
+      "bankLabel": "Other Instrument 2",
+      "tones": [
+        {
+          "pc": 12,
+          "name": "Balimba"
+        },
+        {
+          "pc": 14,
+          "name": "Carillon"
+        },
+        {
+          "pc": 15,
+          "name": "Santur"
+        },
+        {
+          "pc": 25,
+          "name": "+MndlnEns"
+        },
+        {
+          "pc": 32,
+          "name": "+Dim&Cool"
+        },
+        {
+          "pc": 35,
+          "name": "SmthFrtl"
+        },
+        {
+          "pc": 47,
+          "name": "+VlnHrpDt"
+        },
+        {
+          "pc": 56,
+          "name": "+Cornet"
+        },
+        {
+          "pc": 101,
+          "name": "Dharma ***"
+        },
+        {
+          "pc": 104,
+          "name": "Tamboura"
+        },
+        {
+          "pc": 105,
+          "name": "Gopichnt"
+        },
+        {
+          "pc": 107,
+          "name": "Kanoon"
+        },
+        {
+          "pc": 110,
+          "name": "++Ban Hu"
+        },
+        {
+          "pc": 111,
+          "name": "Hichriki"
+        },
+        {
+          "pc": 112,
+          "name": "Altair"
+        },
+        {
+          "pc": 114,
+          "name": "GlasPerc"
+        },
+        {
+          "pc": 119,
+          "name": "RevSnar2 **"
+        }
+      ]
+    },
+    {
+      "bank": 98,
+      "bankLabel": "Other Instrument 3",
+      "tones": [
+        {
+          "pc": 12,
+          "name": "Log Drum"
+        },
+        {
+          "pc": 15,
+          "name": "++Yang Qin"
+        },
+        {
+          "pc": 105,
+          "name": "Oud"
+        },
+        {
+          "pc": 107,
+          "name": "++Zheng"
+        },
+        {
+          "pc": 110,
+          "name": "++Jing Hu"
+        },
+        {
+          "pc": 111,
+          "name": "++Suo Na"
+        },
+        {
+          "pc": 112,
+          "name": "Gamelan"
+        },
+        {
+          "pc": 114,
+          "name": "ThaiBell"
+        },
+        {
+          "pc": 119,
+          "name": "RevKick1 **"
+        }
+      ]
+    },
+    {
+      "bank": 99,
+      "bankLabel": "Other Instrument 4",
+      "tones": [
+        {
+          "pc": 105,
+          "name": "++Pi Pa"
+        },
+        {
+          "pc": 112,
+          "name": "S.Gamlan"
+        },
+        {
+          "pc": 119,
+          "name": "RevConBD **"
+        }
+      ]
+    },
+    {
+      "bank": 100,
+      "bankLabel": "Other Instrument 5",
+      "tones": [
+        {
+          "pc": 112,
+          "name": "Rama Cym"
+        },
+        {
+          "pc": 119,
+          "name": "Rev Tom1 **"
+        }
+      ]
+    },
+    {
+      "bank": 101,
+      "bankLabel": "Other Instrument 6",
+      "tones": [
+        {
+          "pc": 112,
+          "name": "AsianBel"
+        },
+        {
+          "pc": 119,
+          "name": "Rev Tom2 **"
+        }
+      ]
+    },
+    {
+      "bank": 126,
+      "bankLabel": "Capital Voices on MU100 Native Map",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "+GrandP #"
+        },
+        {
+          "pc": 1,
+          "name": "+BriteP #"
+        },
+        {
+          "pc": 2,
+          "name": "El.Grand"
+        },
+        {
+          "pc": 3,
+          "name": "HnkyTonk"
+        },
+        {
+          "pc": 4,
+          "name": "+EPiano1#"
+        },
+        {
+          "pc": 5,
+          "name": "+EPiano2#"
+        },
+        {
+          "pc": 6,
+          "name": "Harpsi."
+        },
+        {
+          "pc": 7,
+          "name": "+Clavi #"
+        },
+        {
+          "pc": 8,
+          "name": "Celesta"
+        },
+        {
+          "pc": 9,
+          "name": "Glocken"
+        },
+        {
+          "pc": 10,
+          "name": "MusicBox"
+        },
+        {
+          "pc": 11,
+          "name": "Vibes"
+        },
+        {
+          "pc": 12,
+          "name": "Marimba"
+        },
+        {
+          "pc": 13,
+          "name": "Xylophon"
+        },
+        {
+          "pc": 14,
+          "name": "TubulBel"
+        },
+        {
+          "pc": 15,
+          "name": "Dulcimer"
+        },
+        {
+          "pc": 16,
+          "name": "+DrawOrg#"
+        },
+        {
+          "pc": 17,
+          "name": "+PercOrg#"
+        },
+        {
+          "pc": 18,
+          "name": "+RockOrg#"
+        },
+        {
+          "pc": 19,
+          "name": "ChrchOrgn"
+        },
+        {
+          "pc": 20,
+          "name": "ReedOrgn"
+        },
+        {
+          "pc": 21,
+          "name": "Acordion"
+        },
+        {
+          "pc": 22,
+          "name": "Harmnica"
+        },
+        {
+          "pc": 23,
+          "name": "+TangoAc#"
+        },
+        {
+          "pc": 24,
+          "name": "+NylonGt#"
+        },
+        {
+          "pc": 25,
+          "name": "+SteelGt#"
+        },
+        {
+          "pc": 26,
+          "name": "+JazzGtr#"
+        },
+        {
+          "pc": 27,
+          "name": "CleanGtr"
+        },
+        {
+          "pc": 28,
+          "name": "+MuteGtr#"
+        },
+        {
+          "pc": 29,
+          "name": "+Ovrdriv#"
+        },
+        {
+          "pc": 30,
+          "name": "+DistGtr#"
+        },
+        {
+          "pc": 31,
+          "name": "GtrHarmo"
+        },
+        {
+          "pc": 32,
+          "name": "+AcoBass#"
+        },
+        {
+          "pc": 33,
+          "name": "+FngrBa #"
+        },
+        {
+          "pc": 34,
+          "name": "PickBass"
+        },
+        {
+          "pc": 35,
+          "name": "+Frtless#"
+        },
+        {
+          "pc": 36,
+          "name": "+SlapBa1#"
+        },
+        {
+          "pc": 37,
+          "name": "+SlapBa2#"
+        },
+        {
+          "pc": 38,
+          "name": "SynBass1"
+        },
+        {
+          "pc": 39,
+          "name": "SynBass2"
+        },
+        {
+          "pc": 40,
+          "name": "+Violin #"
+        },
+        {
+          "pc": 41,
+          "name": "Viola"
+        },
+        {
+          "pc": 42,
+          "name": "Cello"
+        },
+        {
+          "pc": 43,
+          "name": "Contrabs"
+        },
+        {
+          "pc": 44,
+          "name": "+TremStr#"
+        },
+        {
+          "pc": 45,
+          "name": "Pizz.Str"
+        },
+        {
+          "pc": 46,
+          "name": "Harp"
+        },
+        {
+          "pc": 47,
+          "name": "Timpani"
+        },
+        {
+          "pc": 48,
+          "name": "+Strngs1#"
+        },
+        {
+          "pc": 49,
+          "name": "+Strngs2#"
+        },
+        {
+          "pc": 50,
+          "name": "Syn Str1"
+        },
+        {
+          "pc": 51,
+          "name": "Syn Str2"
+        },
+        {
+          "pc": 52,
+          "name": "ChoirAah"
+        },
+        {
+          "pc": 53,
+          "name": "VoiceOoh"
+        },
+        {
+          "pc": 54,
+          "name": "SynVoice"
+        },
+        {
+          "pc": 55,
+          "name": "Orch.Hit"
+        },
+        {
+          "pc": 56,
+          "name": "+Trumpet#"
+        },
+        {
+          "pc": 57,
+          "name": "+Trmbone#"
+        },
+        {
+          "pc": 58,
+          "name": "Tuba"
+        },
+        {
+          "pc": 59,
+          "name": "+MuteTrp#"
+        },
+        {
+          "pc": 60,
+          "name": "Fr. Horn"
+        },
+        {
+          "pc": 61,
+          "name": "+BrssSec#"
+        },
+        {
+          "pc": 62,
+          "name": "SynBrss1"
+        },
+        {
+          "pc": 63,
+          "name": "SynBrss2"
+        },
+        {
+          "pc": 64,
+          "name": "SprnoSax"
+        },
+        {
+          "pc": 65,
+          "name": "+AltoSax#"
+        },
+        {
+          "pc": 66,
+          "name": "TenorSax"
+        },
+        {
+          "pc": 67,
+          "name": "Bari.Sax"
+        },
+        {
+          "pc": 68,
+          "name": "+Oboe #"
+        },
+        {
+          "pc": 69,
+          "name": "Eng.Horn"
+        },
+        {
+          "pc": 70,
+          "name": "Bassoon"
+        },
+        {
+          "pc": 71,
+          "name": "Clarinet"
+        },
+        {
+          "pc": 72,
+          "name": "Piccolo"
+        },
+        {
+          "pc": 73,
+          "name": "+Flute #"
+        },
+        {
+          "pc": 74,
+          "name": "Recorder"
+        },
+        {
+          "pc": 75,
+          "name": "+PanFlut#"
+        },
+        {
+          "pc": 76,
+          "name": "Bottle"
+        },
+        {
+          "pc": 77,
+          "name": "Shakhchi"
+        },
+        {
+          "pc": 78,
+          "name": "Whistle"
+        },
+        {
+          "pc": 79,
+          "name": "Ocarina"
+        },
+        {
+          "pc": 80,
+          "name": "SquareLd"
+        },
+        {
+          "pc": 81,
+          "name": "Saw Ld"
+        },
+        {
+          "pc": 82,
+          "name": "CaliopLd"
+        },
+        {
+          "pc": 83,
+          "name": "Chiff Ld"
+        },
+        {
+          "pc": 84,
+          "name": "CharanLd"
+        },
+        {
+          "pc": 85,
+          "name": "Voice Ld"
+        },
+        {
+          "pc": 86,
+          "name": "Fifth Ld"
+        },
+        {
+          "pc": 87,
+          "name": "Bass&Ld"
+        },
+        {
+          "pc": 88,
+          "name": "NewAgePad"
+        },
+        {
+          "pc": 89,
+          "name": "Warm Pad"
+        },
+        {
+          "pc": 90,
+          "name": "PolySyPd"
+        },
+        {
+          "pc": 91,
+          "name": "ChoirPad"
+        },
+        {
+          "pc": 92,
+          "name": "BowedPad"
+        },
+        {
+          "pc": 93,
+          "name": "MetalPad"
+        },
+        {
+          "pc": 94,
+          "name": "Halo Pad"
+        },
+        {
+          "pc": 95,
+          "name": "SweepPad"
+        },
+        {
+          "pc": 96,
+          "name": "Rain"
+        },
+        {
+          "pc": 97,
+          "name": "SoundTrk"
+        },
+        {
+          "pc": 98,
+          "name": "Crystal"
+        },
+        {
+          "pc": 99,
+          "name": "Atmosphr"
+        },
+        {
+          "pc": 100,
+          "name": "Bright"
+        },
+        {
+          "pc": 101,
+          "name": "Goblins"
+        },
+        {
+          "pc": 102,
+          "name": "Echoes"
+        },
+        {
+          "pc": 103,
+          "name": "Sci-Fi"
+        },
+        {
+          "pc": 104,
+          "name": "Sitar"
+        },
+        {
+          "pc": 105,
+          "name": "Banjo"
+        },
+        {
+          "pc": 106,
+          "name": "Shamisen"
+        },
+        {
+          "pc": 107,
+          "name": "Koto"
+        },
+        {
+          "pc": 108,
+          "name": "Kalimba"
+        },
+        {
+          "pc": 109,
+          "name": "Bagpipe"
+        },
+        {
+          "pc": 110,
+          "name": "Fiddle"
+        },
+        {
+          "pc": 111,
+          "name": "Shanai"
+        },
+        {
+          "pc": 112,
+          "name": "TnklBell"
+        },
+        {
+          "pc": 113,
+          "name": "Agogo"
+        },
+        {
+          "pc": 114,
+          "name": "SteelDrm"
+        },
+        {
+          "pc": 115,
+          "name": "Woodblok"
+        },
+        {
+          "pc": 116,
+          "name": "TaikoDrm"
+        },
+        {
+          "pc": 117,
+          "name": "MelodTom"
+        },
+        {
+          "pc": 118,
+          "name": "Syn Drum"
+        },
+        {
+          "pc": 119,
+          "name": "RevCymbl"
+        },
+        {
+          "pc": 120,
+          "name": "FretNoiz"
+        },
+        {
+          "pc": 121,
+          "name": "BrthNoiz"
+        },
+        {
+          "pc": 122,
+          "name": "Seashore"
+        },
+        {
+          "pc": 123,
+          "name": "Tweet"
+        },
+        {
+          "pc": 124,
+          "name": "Telphone"
+        },
+        {
+          "pc": 125,
+          "name": "Helicptr"
+        },
+        {
+          "pc": 126,
+          "name": "Applause"
+        },
+        {
+          "pc": 127,
+          "name": "Gunshot"
+        }
+      ]
+    },
+    {
+      "bank": 127,
+      "bankLabel": "Capital Voices on MU Basic Map",
+      "tones": [
+        {
+          "pc": 0,
+          "name": "GrandPno"
+        },
+        {
+          "pc": 1,
+          "name": "BritePno"
+        },
+        {
+          "pc": 2,
+          "name": "El.Grand"
+        },
+        {
+          "pc": 3,
+          "name": "HnkyTonk"
+        },
+        {
+          "pc": 4,
+          "name": "E.Piano1"
+        },
+        {
+          "pc": 5,
+          "name": "E.Piano2"
+        },
+        {
+          "pc": 6,
+          "name": "Harpsi."
+        },
+        {
+          "pc": 7,
+          "name": "Clavi"
+        },
+        {
+          "pc": 8,
+          "name": "Celesta"
+        },
+        {
+          "pc": 9,
+          "name": "Glocken"
+        },
+        {
+          "pc": 10,
+          "name": "MusicBox"
+        },
+        {
+          "pc": 11,
+          "name": "Vibes"
+        },
+        {
+          "pc": 12,
+          "name": "Marimba"
+        },
+        {
+          "pc": 13,
+          "name": "Xylophon"
+        },
+        {
+          "pc": 14,
+          "name": "TubulBel"
+        },
+        {
+          "pc": 15,
+          "name": "Dulcimer"
+        },
+        {
+          "pc": 16,
+          "name": "DrawOrgn"
+        },
+        {
+          "pc": 17,
+          "name": "PercOrgn"
+        },
+        {
+          "pc": 18,
+          "name": "RockOrgn"
+        },
+        {
+          "pc": 19,
+          "name": "ChrchOrgn"
+        },
+        {
+          "pc": 20,
+          "name": "ReedOrgn"
+        },
+        {
+          "pc": 21,
+          "name": "Acordion"
+        },
+        {
+          "pc": 22,
+          "name": "Harmnica"
+        },
+        {
+          "pc": 23,
+          "name": "TangoAcd"
+        },
+        {
+          "pc": 24,
+          "name": "NylonGtr"
+        },
+        {
+          "pc": 25,
+          "name": "SteelGtr"
+        },
+        {
+          "pc": 26,
+          "name": "Jazz Gtr"
+        },
+        {
+          "pc": 27,
+          "name": "CleanGtr"
+        },
+        {
+          "pc": 28,
+          "name": "Mute Gtr"
+        },
+        {
+          "pc": 29,
+          "name": "Ovrdrive"
+        },
+        {
+          "pc": 30,
+          "name": "Dist.Gtr"
+        },
+        {
+          "pc": 31,
+          "name": "GtrHarmo"
+        },
+        {
+          "pc": 32,
+          "name": "Aco.Bass"
+        },
+        {
+          "pc": 33,
+          "name": "FngrBass"
+        },
+        {
+          "pc": 34,
+          "name": "PickBass"
+        },
+        {
+          "pc": 35,
+          "name": "Fretless"
+        },
+        {
+          "pc": 36,
+          "name": "SlapBas1"
+        },
+        {
+          "pc": 37,
+          "name": "SlapBas2"
+        },
+        {
+          "pc": 38,
+          "name": "SynBass1"
+        },
+        {
+          "pc": 39,
+          "name": "SynBass2"
+        },
+        {
+          "pc": 40,
+          "name": "Violin"
+        },
+        {
+          "pc": 41,
+          "name": "Viola"
+        },
+        {
+          "pc": 42,
+          "name": "Cello"
+        },
+        {
+          "pc": 43,
+          "name": "Contrabs"
+        },
+        {
+          "pc": 44,
+          "name": "Trem.Str"
+        },
+        {
+          "pc": 45,
+          "name": "Pizz.Str"
+        },
+        {
+          "pc": 46,
+          "name": "Harp"
+        },
+        {
+          "pc": 47,
+          "name": "Timpani"
+        },
+        {
+          "pc": 48,
+          "name": "Strings1"
+        },
+        {
+          "pc": 49,
+          "name": "Strings2"
+        },
+        {
+          "pc": 50,
+          "name": "Syn Str1"
+        },
+        {
+          "pc": 51,
+          "name": "Syn Str2"
+        },
+        {
+          "pc": 52,
+          "name": "ChoirAah"
+        },
+        {
+          "pc": 53,
+          "name": "VoiceOoh"
+        },
+        {
+          "pc": 54,
+          "name": "SynVoice"
+        },
+        {
+          "pc": 55,
+          "name": "Orch.Hit"
+        },
+        {
+          "pc": 56,
+          "name": "Trumpet"
+        },
+        {
+          "pc": 57,
+          "name": "Trombone"
+        },
+        {
+          "pc": 58,
+          "name": "Tuba"
+        },
+        {
+          "pc": 59,
+          "name": "Mute Trp"
+        },
+        {
+          "pc": 60,
+          "name": "Fr. Horn"
+        },
+        {
+          "pc": 61,
+          "name": "BrssSect"
+        },
+        {
+          "pc": 62,
+          "name": "SynBrss1"
+        },
+        {
+          "pc": 63,
+          "name": "SynBrss2"
+        },
+        {
+          "pc": 64,
+          "name": "SprnoSax"
+        },
+        {
+          "pc": 65,
+          "name": "Alto Sax"
+        },
+        {
+          "pc": 66,
+          "name": "TenorSax"
+        },
+        {
+          "pc": 67,
+          "name": "Bari.Sax"
+        },
+        {
+          "pc": 68,
+          "name": "Oboe"
+        },
+        {
+          "pc": 69,
+          "name": "Eng.Horn"
+        },
+        {
+          "pc": 70,
+          "name": "Bassoon"
+        },
+        {
+          "pc": 71,
+          "name": "Clarinet"
+        },
+        {
+          "pc": 72,
+          "name": "Piccolo"
+        },
+        {
+          "pc": 73,
+          "name": "Flute"
+        },
+        {
+          "pc": 74,
+          "name": "Recorder"
+        },
+        {
+          "pc": 75,
+          "name": "PanFlute"
+        },
+        {
+          "pc": 76,
+          "name": "Bottle"
+        },
+        {
+          "pc": 77,
+          "name": "Shakhchi"
+        },
+        {
+          "pc": 78,
+          "name": "Whistle"
+        },
+        {
+          "pc": 79,
+          "name": "Ocarina"
+        },
+        {
+          "pc": 80,
+          "name": "SquareLd"
+        },
+        {
+          "pc": 81,
+          "name": "Saw Ld"
+        },
+        {
+          "pc": 82,
+          "name": "CaliopLd"
+        },
+        {
+          "pc": 83,
+          "name": "Chiff Ld"
+        },
+        {
+          "pc": 84,
+          "name": "CharanLd"
+        },
+        {
+          "pc": 85,
+          "name": "Voice Ld"
+        },
+        {
+          "pc": 86,
+          "name": "Fifth Ld"
+        },
+        {
+          "pc": 87,
+          "name": "Bass&Ld"
+        },
+        {
+          "pc": 88,
+          "name": "NewAgePad"
+        },
+        {
+          "pc": 89,
+          "name": "Warm Pad"
+        },
+        {
+          "pc": 90,
+          "name": "PolySyPd"
+        },
+        {
+          "pc": 91,
+          "name": "ChoirPad"
+        },
+        {
+          "pc": 92,
+          "name": "BowedPad"
+        },
+        {
+          "pc": 93,
+          "name": "MetalPad"
+        },
+        {
+          "pc": 94,
+          "name": "Halo Pad"
+        },
+        {
+          "pc": 95,
+          "name": "SweepPad"
+        },
+        {
+          "pc": 96,
+          "name": "Rain"
+        },
+        {
+          "pc": 97,
+          "name": "SoundTrk"
+        },
+        {
+          "pc": 98,
+          "name": "Crystal"
+        },
+        {
+          "pc": 99,
+          "name": "Atmosphr"
+        },
+        {
+          "pc": 100,
+          "name": "Bright"
+        },
+        {
+          "pc": 101,
+          "name": "Goblins"
+        },
+        {
+          "pc": 102,
+          "name": "Echoes"
+        },
+        {
+          "pc": 103,
+          "name": "Sci-Fi"
+        },
+        {
+          "pc": 104,
+          "name": "Sitar"
+        },
+        {
+          "pc": 105,
+          "name": "Banjo"
+        },
+        {
+          "pc": 106,
+          "name": "Shamisen"
+        },
+        {
+          "pc": 107,
+          "name": "Koto"
+        },
+        {
+          "pc": 108,
+          "name": "Kalimba"
+        },
+        {
+          "pc": 109,
+          "name": "Bagpipe"
+        },
+        {
+          "pc": 110,
+          "name": "Fiddle"
+        },
+        {
+          "pc": 111,
+          "name": "Shanai"
+        },
+        {
+          "pc": 112,
+          "name": "TnklBell"
+        },
+        {
+          "pc": 113,
+          "name": "Agogo"
+        },
+        {
+          "pc": 114,
+          "name": "SteelDrm"
+        },
+        {
+          "pc": 115,
+          "name": "Woodblok"
+        },
+        {
+          "pc": 116,
+          "name": "TaikoDrm"
+        },
+        {
+          "pc": 117,
+          "name": "MelodTom"
+        },
+        {
+          "pc": 118,
+          "name": "Syn Drum"
+        },
+        {
+          "pc": 119,
+          "name": "RevCymbl"
+        },
+        {
+          "pc": 120,
+          "name": "FretNoiz"
+        },
+        {
+          "pc": 121,
+          "name": "BrthNoiz"
+        },
+        {
+          "pc": 122,
+          "name": "Seashore"
+        },
+        {
+          "pc": 123,
+          "name": "Tweet"
+        },
+        {
+          "pc": 124,
+          "name": "Telphone"
+        },
+        {
+          "pc": 125,
+          "name": "Helicptr"
+        },
+        {
+          "pc": 126,
+          "name": "Applause"
+        },
+        {
+          "pc": 127,
+          "name": "Gunshot"
+        }
+      ]
+    }
+  ]
+}
